@@ -1,0 +1,30 @@
+name: validate-outreach-pack
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate CSV schema
+        run: python3 05-scripts/validate_pack.py
+      - name: Check files present
+        run: |
+          test -f 01-playbook/COMPLETE-PLAYBOOK.md
+          test -f 02-outreach-pack/gaby-outreach-pack.csv
+          test -f 02-outreach-pack/gaby-direct-dental.csv
+          test -f 03-messages/gaby-outreach-messages.md
+          echo "✓ all required files present"
+      - name: Row count check
+        run: |
+          rows=$(wc -l < 02-outreach-pack/gaby-outreach-pack.csv)
+          if [ "$rows" -lt 100 ]; then
+            echo "FAIL: only $rows rows in pack (min 100)"
+            exit 1
+          fi
+          echo "✓ $((rows - 1)) rows in pack"

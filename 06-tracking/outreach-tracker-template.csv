@@ -1,0 +1,4 @@
+business_name,category,subcategory,city,address,phone,whatsapp_url,distance_km,google_rating,google_reviews,has_website,play,priority_score,outreach_template,contacted_date,reply_date,reply_status,next_action,notes
+EJEMPLO — Spa Tiger,Spa/Wellness,Spa,Asunción,"Av. España 123, Asunción",0994201066,https://wa.me/595994201066,1.33,4.2,286,NO,ATM_BRUXISMO,WELLNESS_HOLISTIC,12,ATM_BRUXISMO,2026-09-16,2026-09-17,REPLIED,,Conversar sobre derivación de casos ATM
+EJEMPLO — Joseph Coiffure,Salon de Belleza,Hair,Asunción,"Av. Brasil 456, Asunción",0986243602,https://wa.me/595986243602,2.27,4.6,1274,YES,ESTETICA_DENTAL,14,ESTETICA_SONRISA,,,,,,,
+EJEMPLO — Hotel Guaraní,Hotel,Hotel,Asunción,"Independencia Nacional corner, Asunción",021452099,https://wa.me/59521452099,4.19,4.6,4559,YES,EXPAT_HOTEL,12,EXPAT_HOTEL,,,,,,,

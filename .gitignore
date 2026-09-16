@@ -1,0 +1,12 @@
+# Scratch dirs
+.DS_Store
+*.swp
+*.bak
+
+# Per-quarter trackers (refresh weekly; too volatile for git)
+06-tracking/outreach-tracker-2026-*
+
+# Local outputs from build script
+/tmp/dental_raw.csv
+*.pyc
+__pycache__/

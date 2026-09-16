@@ -1,0 +1,7 @@
+business_name,category,subcategory,city,address,phone,whatsapp_url,distance_km,google_rating,google_reviews,has_website,play,priority_score,outreach_template
+Dra.So.Odontología,Salon de Belleza,General,San Lorenzo,"Av. Defensores del Chaco 307, San Lorenzo 2160, Paraguay",0991 966564,https://wa.me/0991966564,10.61,5.0,34,YES,"DIRECT_DENTAL,ATM_BRUXISMO,ESTETICA_DENTAL",12,DENTAL_COLLEAGUE
+"Essenza cirugia, medicina estética y odontologica",Otros,General,Asunción,"Cerro Cora 3948 & Radio Operadores del Chaco, Cerro Corá 3948, Asunción 1594, Paraguay",0986 318186,https://wa.me/0986318186,1.84,4.3,6,NO,"DIRECT_DENTAL,ESTETICA_DENTAL",11,DENTAL_COLLEAGUE
+Odontologia Miranda Estética Dentofacial,Estetica/Facial,General,Asunción,"Solar Guarani, Asunción 1380, Paraguay",0985 380756,https://wa.me/0985380756,1.09,5.0,3,NO,"DIRECT_DENTAL,ESTETICA_DENTAL",11,DENTAL_COLLEAGUE
+Dental Guarani S.A.,Otros,General,Asunción,"Yegros esq., República de Colombia 1094, Asunción 001102, Paraguay",(021) 494 411,https://wa.me/59521494411,3.86,4.2,85,YES,DIRECT_DENTAL,11,DENTAL_COLLEAGUE
+Odontología Cautiva/Clinica dental/Odontologia/Ortodoncia/Odontopediatria/Botox/Carillas dentales/Implantes/Estetica dental,Estetica/Facial,General,Fernando de la Mora,"Palma 1429, Fernando de la Mora 110319, Paraguay",0994 460046,https://wa.me/0994460046,5.94,5.0,29,NO,"DIRECT_DENTAL,ESTETICA_DENTAL",9,DENTAL_COLLEAGUE
+Arte Dental Lambare,Otros,General,Lambaré,"arte dental, Lambaré 110728, Paraguay",0983 021454,https://wa.me/0983021454,4.57,5.0,1,NO,DIRECT_DENTAL,8,DENTAL_COLLEAGUE
