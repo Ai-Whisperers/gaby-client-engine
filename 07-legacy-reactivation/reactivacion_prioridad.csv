@@ -1,0 +1,404 @@
+prioridad,paciente,telefono,cedula,gancho,ultima_visita,seguro
+1,Bruno Miño,,,Trat. incompleto: falta 2da sesión,hace años,
+1,Margarita Galeano,,,Trat. incompleto: falta obturar molar superior e inferior,hace años,
+1,Viviana Nuñez,,,Trat. incompleto: falta obturar en 36,hace años,MOPC
+2,ADA KARINA  MOLINA CENTURION,0985171870,6253513,"1 sola consulta 2026, sin retorno",13/1/2026,PROTECCIÓN MÉDICA S.A
+2,ADAN QUIMEY  CHAVES BRIZUELA,0983803623,4951160,"1 sola consulta 2026, sin retorno",27/4/2026,ASISMED S.A.
+2,ADOLFO ENRIQUE  RODRIGUEZ AMARILLA,0971563803,1373329,"1 sola consulta 2026, sin retorno",23/4/2026,ASISMED S.A.
+2,ADRIANA BEATRIZ  MARTINEZ TORRES,0991575935,4150354,"1 sola consulta 2026, sin retorno",23/2/2026,ASISMED S.A.
+2,AGUSTIN FERNANDO  SANTOS GARCETE,0975529659,2918511,"1 sola consulta 2026, sin retorno",17/2/2026,EL BUEN SAMARITANO S.A.
+2,AIDA LETICIA  GONZALEZ MOLINAS,0985977188,6008505,"1 sola consulta 2026, sin retorno",11/3/2026,ASISMED S.A.
+2,ALBA CONCEPCION  PORTILLO BARRETO,0972100185,3514489,"1 sola consulta 2026, sin retorno",3/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ALBERTO GERMAN  BART SCHOLLER,0984962642,2261968,"1 sola consulta 2026, sin retorno",17/2/2026,ASISMED S.A.
+2,ALEJANDRO JOSE  AGUILERA,0981192616,5254691,"1 sola consulta 2026, sin retorno",9/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ALEXANDER DAMIÁN  ESPINOLA CASTRO,0982336377,5292963,"1 sola consulta 2026, sin retorno",11/3/2026,ASISMED S.A.
+2,ALLEGRA LUJAN  NOTARIO DUBINI,0981540441,6625267,"1 sola consulta 2026, sin retorno",4/5/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ANA  BELEN  RAMIREZ ROJAS,0961444789,3206030,"1 sola consulta 2026, sin retorno",18/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ANA CAROLINA  BOGADO MARTÍNEZ,0984128717,3854026,"1 sola consulta 2026, sin retorno",6/1/2026,PROTECCIÓN MÉDICA S.A
+2,ANA ISABEL  ROMERO LEGUIZAMON,0981323684,3685761,"1 sola consulta 2026, sin retorno",30/4/2026,ODONTOLOGIA 3
+2,ANA MARIA  ZAYAS DE FERNANDEZ,0982604595,1319929,"1 sola consulta 2026, sin retorno",29/1/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ANDREA CAROLINA  PARRA RUIZ DÍAZ,0985745958,4994800,"1 sola consulta 2026, sin retorno",17/3/2026,ASISMED S.A.
+2,ANDREA PATRICIA  GIMÉNEZ SALDIVAR,0986644743,4118643,"1 sola consulta 2026, sin retorno",21/5/2026,ASISMED S.A.
+2,ANGEL RAFAEL  BENITEZ MELGAREJO,0961176552,3521234,"1 sola consulta 2026, sin retorno",21/4/2026,VANGUARD
+2,ANGELA ROSA  CACERES,0972471772,1373542,"1 sola consulta 2026, sin retorno",21/4/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ANTONELLA  MERLO PROPP,0981400592,2574080,"1 sola consulta 2026, sin retorno",18/2/2026,ASISMED S.A.
+2,ANTONIA BEATRIZ  FRETES VAZQUEZ,0983940262,3426570,"1 sola consulta 2026, sin retorno",19/5/2026,ASISMED S.A.
+2,ANTONIO DANIEL  JARA AGUERO,0983386939,515829,"1 sola consulta 2026, sin retorno",29/1/2026,ASISMED S.A.
+2,ARACELI LUJAN  PRIETO FERREIRA,0983053300,6776195,"1 sola consulta 2026, sin retorno",10/3/2026,ASISMED S.A.
+2,ARMANDO JOSUÉ  BENÍTEZ RIVAS,0986166372,4975569,"1 sola consulta 2026, sin retorno",24/2/2026,ASISMED S.A.
+2,ARNALDO DANIEL  CARDOZO,0986426772,6249860,"1 sola consulta 2026, sin retorno",10/2/2026,ASISMED S.A.
+2,ARTURO RENE  BENITEZ CAZAL,0981242790,3395495,"1 sola consulta 2026, sin retorno",8/1/2026,ASISMED S.A.
+2,BAUTISTA  OLIVERA,972494779,8731269,"1 sola consulta 2026, sin retorno",24/2/2026,PROTECCIÓN MÉDICA S.A
+2,BELEN  LEGUIZAMON SERVIAN,0994864441,4177144,"1 sola consulta 2026, sin retorno",15/4/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,BELÉN ALEXANDRA  GAMARRA ALMADA,0983751773,4327581,"1 sola consulta 2026, sin retorno",5/1/2026,ASISMED S.A.
+2,BENITA  ACHUCARRO DE VILLALBA,0981497889,1208948,"1 sola consulta 2026, sin retorno",23/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,BENJAMIN ANDRES  MARSA JORG,0981949827,809114,"1 sola consulta 2026, sin retorno",8/4/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,BERNARDINO STEVEN  GARAY OCAMPOS,0982806388,4241639,"1 sola consulta 2026, sin retorno",13/5/2026,ASISMED S.A.
+2,BLAS ADOLFO  MARECO,0985421042,1289361,"1 sola consulta 2026, sin retorno",7/1/2026,ASISMED S.A.
+2,BOHWA  NA PO,0972714777,7890689,"1 sola consulta 2026, sin retorno",10/2/2026,ASISMED S.A.
+2,BRIAN EDUARDO  RODRÍGUEZ OVIEDO,0983319346,5812427,"1 sola consulta 2026, sin retorno",19/2/2026,ASISMED S.A.
+2,CARINA CONCEPCIÓN  ARIAS GALEANO,0981247996,1650107,"1 sola consulta 2026, sin retorno",2/2/2026,ASISMED S.A.
+2,CARLOS DAVID  ALVAREZ PENAYO,0961715942,3201447,"1 sola consulta 2026, sin retorno",7/1/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,CARLOS ISMAEL RAMON  CUBILLA EGGENSCHWILER,0985835631,6046545,"1 sola consulta 2026, sin retorno",15/4/2026,VANGUARD
+2,CARLOS JOSE  ESCURRA,0983757046,3488711,"1 sola consulta 2026, sin retorno",14/1/2026,ASISMED S.A.
+2,CARLOS MARIA  VILLALBA LIBARDI,0983451297,939778,"1 sola consulta 2026, sin retorno",23/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,CARLOS NICOLAS  GOMEZ BENITEZ,0971299658,5255601,"1 sola consulta 2026, sin retorno",5/2/2026,ASISMED S.A.
+2,CARLOS ROBERTO  BELLO ROUSILLON,0971981283,3526340,"1 sola consulta 2026, sin retorno",15/1/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,CARMEN  LARREA PEÑA,0982136121,2574275,"1 sola consulta 2026, sin retorno",3/2/2026,ASISMED S.A.
+2,CARMEN BEATRIZ  GENES CANTERO,0981941071,2553827,"1 sola consulta 2026, sin retorno",17/2/2026,ASISMED S.A.
+2,CATALINA MAGALÍ  ACOSTA OCAMPOS,0984459168,4789543,"1 sola consulta 2026, sin retorno",9/2/2026,PROTECCIÓN MÉDICA S.A
+2,CELIDA VENECIA  CARDELORI LOPEZ,0981450464,5312697,"1 sola consulta 2026, sin retorno",10/3/2026,ASISMED S.A.
+2,CELSO JAVIER  PEREIRA COLLANTE,0986172710,4510495,"1 sola consulta 2026, sin retorno",17/3/2026,PARTICULAR
+2,CHAVELY  FLORES LOPEZ,0983359632,3799388,"1 sola consulta 2026, sin retorno",20/5/2026,VICE PRESIDENCIA DE LA REPUBLICA
+2,CIELO MERCEDES  VALENZUELA GALEANO,0981400023,1157324,"1 sola consulta 2026, sin retorno",1/6/2026,ASISMED S.A.
+2,CLAUDIA  RODRÍGUEZ CABALLERO,0981102833,1227367,"1 sola consulta 2026, sin retorno",15/1/2026,ASISMED S.A.
+2,CYNTHIA CAROLINA  CASCO SALOMON,0981996278,3653178,"1 sola consulta 2026, sin retorno",9/2/2026,ASISMED S.A.
+2,DANAE  MARIA  SOSA  MIRANDA  ORELLA,614088   0981277209,3704429,"1 sola consulta 2026, sin retorno",19/2/2026,ASISMED S.A.
+2,DANIEL  ESPINOLA MARTINEZ,0982402733,4065439,"1 sola consulta 2026, sin retorno",5/3/2026,ASISMED S.A.
+2,DANIEL  MARTÍNEZ SERVÍAN,0971932388,5220290,"1 sola consulta 2026, sin retorno",8/1/2026,ASISMED S.A.
+2,DANIELA  BORDON GONZALEZ,0982188207,4553998,"1 sola consulta 2026, sin retorno",25/3/2026,ASISMED S.A.
+2,DANIELA  LEGUIZAMON OJEDA,0984319618,2175333,"1 sola consulta 2026, sin retorno",5/5/2026,ODONTOLOGIA 3
+2,DARIO SEBASTIAN  GONZALEZ ANDUEZA,0981439998,4186279,"1 sola consulta 2026, sin retorno",26/3/2026,ASISMED S.A.
+2,DAVID RICARDO  SEGOVIA LEZCANO,0991750278,1859690,"1 sola consulta 2026, sin retorno",17/2/2026,ASISMED S.A.
+2,DEISY PATRICIA  ESTIGARRIBIA BOGARIN,0986150131,5458564,"1 sola consulta 2026, sin retorno",6/1/2026,ASISMED S.A.
+2,DENIS MATIAS  SOLIS LOPEZ,0985225353,6111140,"1 sola consulta 2026, sin retorno",16/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,DIANA MARLENE  GALEANO MARTINEZ,0972114906,4635096,"1 sola consulta 2026, sin retorno",28/4/2026,ASISMED S.A.
+2,DIANA YSABEL  VILLALBA ACHUCARRO,0982176318,4460852,"1 sola consulta 2026, sin retorno",23/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,DOLLY  IRALA,0981966189,1189373,"1 sola consulta 2026, sin retorno",6/1/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,DOMENICO ENRIQUE  MEZA SANTIVIAGO,0982870044,5436760,"1 sola consulta 2026, sin retorno",11/2/2026,ASISMED S.A.
+2,DORIS MARIA  NUÑEZ,0983305434,3390434,"1 sola consulta 2026, sin retorno",9/2/2026,ASISMED S.A.
+2,EDGAR PAUL  BARRETO SOLIS,0976492593,4859468,"1 sola consulta 2026, sin retorno",5/2/2026,ODONTOLOGIA 3
+2,EDGARDO ALFREDO  PEREIRA,0981411194,1476930,"1 sola consulta 2026, sin retorno",4/2/2026,ASISMED S.A.
+2,EDHIT ANTONIA  BARRETO GIMENEZ,0971250860,4235520,"1 sola consulta 2026, sin retorno",4/2/2026,ASISMED S.A.
+2,EDUARDO DANIEL  LOPEZ CAÑETE,0971227513,1589086,"1 sola consulta 2026, sin retorno",12/3/2026,ASISMED S.A.
+2,ELIAS  DOMINGUEZ BARRETO,0981139819,5144500,"1 sola consulta 2026, sin retorno",29/4/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,EMILCE MARISOL  GAYOSO ACOSTA,0994706534,5741985,"1 sola consulta 2026, sin retorno",6/1/2026,ASISMED S.A.
+2,EMILCE MARLENE  FRANCO SANCHEZ,0982958541,1991466,"1 sola consulta 2026, sin retorno",23/2/2026,PARTICULAR
+2,EMILIANA CONCEPCION  UNSAIN DE CENTURION,0982302996,968797,"1 sola consulta 2026, sin retorno",30/4/2026,VANGUARD
+2,EMMA LUJAN  ORTEGA AQUINO,0961304192,7414174,"1 sola consulta 2026, sin retorno",17/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ERIKA DENISE  QUESNEL BENITEZ,0991166658,5111582,"1 sola consulta 2026, sin retorno",5/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ERIKA VÍCTORIA  ELIZECHE DURE,0981355583,4792837,"1 sola consulta 2026, sin retorno",3/2/2026,ASISMED S.A.
+2,ESMELDA  TORRES FERNANDEZ,0985692377,2940895,"1 sola consulta 2026, sin retorno",15/1/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,ESTELA CONCEPCION  EGGENSCHWILER DE CUBILLA,0981761213,1417460,"1 sola consulta 2026, sin retorno",15/4/2026,VANGUARD
+2,EVA TERESA  FLORENTIN CARDENAS,0981624724,4542931,"1 sola consulta 2026, sin retorno",27/5/2026,ASISMED S.A.
+2,FABIAN ORLANDO  SAGAZ ARIAS,0981247996,5554377,"1 sola consulta 2026, sin retorno",2/2/2026,ASISMED S.A.
+2,FACUNDO MARTIN  GONZALEZ GUERREÑO,0982467436,4175307,"1 sola consulta 2026, sin retorno",12/2/2026,VANGUARD
+2,FATIMA MARIA ELIZABETH  BOBADILLA DE CENTURION,0981232016,862850,"1 sola consulta 2026, sin retorno",9/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,FELICIA  VARELA FRANCO,0971693276,1371245,"1 sola consulta 2026, sin retorno",5/3/2026,ASISMED S.A.
+2,FELICITA  MAKDONADO,13478587354,1156556,"1 sola consulta 2026, sin retorno",26/2/2026,PROTECCIÓN MÉDICA S.A
+2,FERNANDO ANDRES  ACEVEDO SALINAS,0991546000,2343131,"1 sola consulta 2026, sin retorno",26/3/2026,ASISMED S.A.
+2,FERNANDO DANIEL  FRUTOS ALVISO,0981320024,3873552,"1 sola consulta 2026, sin retorno",10/2/2026,ASISMED S.A.
+2,FLORISELDA  PEÑA CONQUISTA,0971308502,124272292,"1 sola consulta 2026, sin retorno",8/1/2026,PROTECCIÓN MÉDICA S.A
+2,FRANCISCO JAVIER  AZUAGA ORREGO,0971132626,2857191,"1 sola consulta 2026, sin retorno",20/5/2026,VICE PRESIDENCIA DE LA REPUBLICA
+2,FRANCISCO JOSE  FIGUEREDO TROCHE,0971884738,485076,"1 sola consulta 2026, sin retorno",24/2/2026,ASISMED S.A.
+2,GABRIELA  VILLAMAYOR GARCIA,0991316335,4621182,"1 sola consulta 2026, sin retorno",11/2/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,GABRIELA MARIA CRISTINA  ACEVEDO DE LENGUAZA,0971129464,4074096,"1 sola consulta 2026, sin retorno",19/2/2026,ASISMED S.A.
+2,GABRIELA NATALI  SCHENONE GONZALEZ,0986270215,2947091,"1 sola consulta 2026, sin retorno",13/1/2026,ASISMED S.A.
+2,GIANNINA MADELEINE  BENITEZ RAMOS,0982170775,5898131,"1 sola consulta 2026, sin retorno",21/4/2026,ASISMED S.A.
+2,GILDA  ARGUELLO VERA,0971893386,925477,"1 sola consulta 2026, sin retorno",5/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,GILDA LORENA  ARIAS DE VEGA,0981894726,2835155,"1 sola consulta 2026, sin retorno",12/2/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,GIMENA MONSERRAT  TORRES,0981293568,4720969,"1 sola consulta 2026, sin retorno",3/3/2026,ASISMED S.A.
+2,GISSELLE DE JESUS  MENDOZA SALINAS,0981500821,4984641,"1 sola consulta 2026, sin retorno",18/2/2026,ASISMED S.A.
+2,GLORIA  LEZCANO,0992299958,2037782,"1 sola consulta 2026, sin retorno",26/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,GLORIA GRICELDA  VILLALBA PRIETO,0972120009,3990513,"1 sola consulta 2026, sin retorno",3/3/2026,ASISMED S.A.
+2,GONZALO IGNANCIO  MARECO LEZCANO,0985421042,5572103,"1 sola consulta 2026, sin retorno",7/1/2026,ASISMED S.A.
+2,GUILLERMO ARIEL  ARAUJO AYALA,0991858855,4351479,"1 sola consulta 2026, sin retorno",23/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,GUSTAVO  BENITEZ BEJARANO,0994650148,4056206,"1 sola consulta 2026, sin retorno",29/1/2026,ASISMED S.A.
+2,HASSAN AHMAD CHARAF  EDDINE MARTINEZ,0991709782,5960598,"1 sola consulta 2026, sin retorno",3/2/2026,ASISMED S.A.
+2,HILARIO  MARTINEZ,0974837208,2045418,"1 sola consulta 2026, sin retorno",21/4/2026,ASISMED S.A.
+2,HORACIO DAVID  OPORTO VARGAS,0981152674,1529206,"1 sola consulta 2026, sin retorno",6/1/2026,ASISMED S.A.
+2,HUGO EMILIO  ZARZA PASCOTTINI,0984207071,2151939,"1 sola consulta 2026, sin retorno",4/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,INGRI NATALIA  ORDOÑEZ QUIÑONES,0993498747,9387279,"1 sola consulta 2026, sin retorno",28/4/2026,EL BUEN SAMARITANO S.A.
+2,IRENE  GONZALEZ DE SANABRIA,0972776225,910712,"1 sola consulta 2026, sin retorno",6/5/2026,ASISMED S.A.
+2,IRIS LUJAN  PAREDEZ LEIVA,0971475579,7151093,"1 sola consulta 2026, sin retorno",3/3/2026,PARTICULAR
+2,JACQUELINE BERNARDA  NUÑEZ OCAMPO,0972443338,4995559,"1 sola consulta 2026, sin retorno",23/4/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,JAZMIN CLARISSA  MARECOS ESCURRA,0982787853,5032539,"1 sola consulta 2026, sin retorno",2/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,JESSICA  ANDREA  GALEANO BECKER,0995619619,4243357,"1 sola consulta 2026, sin retorno",25/3/2026,ASISMED S.A.
+2,JOHANA ELIZABETH  NUÑEZ MERCADO,0981800303,5148075,"1 sola consulta 2026, sin retorno",5/1/2026,ASISMED S.A.
+2,JOHANNA ELIZABETH  GIMENEZ MENDOZA,0961269649,3969028,"1 sola consulta 2026, sin retorno",7/5/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,JORGE ASUNCIÓN  FERNÁNDEZ COLLANTE,0981609002,5726311,"1 sola consulta 2026, sin retorno",25/3/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,JORGE PAUL  DUARTE MARTINEZ,0994474994,5737304,"1 sola consulta 2026, sin retorno",9/4/2026,ASISMED S.A.
+2,JOSE AGUSTIN  AQUINO CORRALES,0981518310,2441094,"1 sola consulta 2026, sin retorno",28/1/2026,ODONTOLOGIA 3
+2,JOSE MIGUEL  ARANDA,0973135272,3603301,"1 sola consulta 2026, sin retorno",24/2/2026,ODONTOLOGIA 3
+2,JOSUE DANIEL  FERREIRA DA COSTA PERAN,0984772672,4251461,"1 sola consulta 2026, sin retorno",14/1/2026,PROTECCIÓN MÉDICA S.A
+2,JUAN  LEZCANO PAREDES,0992299958,1133010,"1 sola consulta 2026, sin retorno",26/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,JUAN CARLOS  GOMEZ,0981117700,1208798,"1 sola consulta 2026, sin retorno",10/2/2026,PARTICULAR
+2,JUAN ÁNGEL  ACOSTA CARDOZO,0985149577,3578644,"1 sola consulta 2026, sin retorno",15/4/2026,ASISMED S.A.
+2,JULIA BEATRIZ  FRETES MARIN,0984311482,2431635,"1 sola consulta 2026, sin retorno",17/3/2026,ASISMED S.A.
+2,JULIANA SOLEDAD  GARCIA,0991856386,6902689,"1 sola consulta 2026, sin retorno",24/3/2026,ASISMED S.A.
+2,JULIETA  AYELEN  ACEVEDO CABRERA,0991526000,6895978,"1 sola consulta 2026, sin retorno",26/3/2026,ASISMED S.A.
+2,JULIETA ALELHI  CAMERON CACERES,0982348791,6999657,"1 sola consulta 2026, sin retorno",4/5/2026,ASISMED S.A.
+2,JULIO CESAR  AMARILLA  ALEM,0981489202,1458092,"1 sola consulta 2026, sin retorno",23/4/2026,ODONTOLOGIA 3
+2,JULIO CESAR  CENTURION,0985237112,805875,"1 sola consulta 2026, sin retorno",30/4/2026,VANGUARD
+2,KARINA  RAMÍREZ ALMADA,0984826037,3310402,"1 sola consulta 2026, sin retorno",14/4/2026,PROTECCIÓN MÉDICA S.A
+2,KARINA VANESSA  BENITEZ ALVAREZ,0982208683,4368113,"1 sola consulta 2026, sin retorno",16/2/2026,ODONTOLOGIA 3
+2,KATIA MACARENA  GIMENEZ ARAUJO,0986456701,4825736,"1 sola consulta 2026, sin retorno",7/4/2026,ASISMED S.A.
+2,LAURA DANIELA  GAMARRA GONZÁLEZ,0991953508,5689410,"1 sola consulta 2026, sin retorno",14/4/2026,ASISMED S.A.
+2,LAURA VICTORIA  CASTRO RUIZ DIAZ,0985130025,4161762,"1 sola consulta 2026, sin retorno",10/3/2026,VANGUARD
+2,LETICIA ANTONELLA  TORRES GAMARRA,0992282882,5460872,"1 sola consulta 2026, sin retorno",8/1/2026,ASISMED S.A.
+2,LIDIA KARINA  NUÑEZ TORRES,0961672067,3233776,"1 sola consulta 2026, sin retorno",7/1/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,LINELYS YICETH  ROMERO PERDOMO,0982329100,8732179,"1 sola consulta 2026, sin retorno",25/3/2026,EL BUEN SAMARITANO S.A.
+2,LIZ CAROLINA  CANDIA CAZAL,0982762088,5042102,"1 sola consulta 2026, sin retorno",25/2/2026,ASISMED S.A.
+2,LIZ CECILIA  VILLALBA LOPEZ,0961599740,5104259,"1 sola consulta 2026, sin retorno",17/3/2026,ASISMED S.A.
+2,LIZ CLAUDIA  AGUILERA INSAURRALDE,0983587104,4447636,"1 sola consulta 2026, sin retorno",7/4/2026,PROTECCIÓN MÉDICA S.A
+2,LIZ DAHIANA  MERCADO ROJAS,0994312300,3525280,"1 sola consulta 2026, sin retorno",9/2/2026,ASISMED S.A.
+2,LIZ ESTHER  CESPEDES ARROYO,0986356453,3882190,"1 sola consulta 2026, sin retorno",12/5/2026,VANGUARD
+2,LIZ ROCIO  ESPINOLA CORONEL,0972650821,3216829,"1 sola consulta 2026, sin retorno",26/3/2026,ASISMED S.A.
+2,LOURDES ALFREDO  PENZZI LESME,0981649802,3007253,"1 sola consulta 2026, sin retorno",11/2/2026,ASISMED S.A.
+2,LOURDES ISABEL  GONZALEZ CHAMORRO,0971325843,986447,"1 sola consulta 2026, sin retorno",13/1/2026,ASISMED S.A.
+2,LOURDES SOLEDAD  ALMADA RAMIREZ,0986830883,5437797,"1 sola consulta 2026, sin retorno",2/2/2026,ODONTOLOGIA 3
+2,LUCAS  CLARI ZAMBRINI,0981534645,3189635,"1 sola consulta 2026, sin retorno",20/4/2026,ASISMED S.A.
+2,LUIS ALBERTO  ESCOBAR MARECO,0981161387,4580273,"1 sola consulta 2026, sin retorno",25/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,LUIS AUGUSTO  ROMAN GONZALEZ,0986144066,2080926,"1 sola consulta 2026, sin retorno",9/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,LUZ MARINA  MARTINEZ,0961750000,2182767,"1 sola consulta 2026, sin retorno",5/5/2026,VANGUARD
+2,LUZ VERONICA  BARRETO ROJAS,0991791050,4639623,"1 sola consulta 2026, sin retorno",14/1/2026,ASISMED S.A.
+2,MADELAY ROCÍO  FLECHA CASTILLO,0971902966,4529980,"1 sola consulta 2026, sin retorno",14/1/2026,ASISMED S.A.
+2,MARCELO  DE LA CUEVA IBARRA,0973200010,3330917,"1 sola consulta 2026, sin retorno",7/5/2026,ASISMED S.A.
+2,MARCOS RODOLFO  MOREL DOLINSKI,0985609143,4021440,"1 sola consulta 2026, sin retorno",11/2/2026,ASISMED S.A.
+2,MARGARETH ABIGAIL  GAMARRA RIVEROS,0985123140,6706068,"1 sola consulta 2026, sin retorno",18/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,MARIA  PAZ  VILLALBA FLORENTIN,0981326121,7940634,"1 sola consulta 2026, sin retorno",3/2/2026,HONORABLE CAMARA DE DIPUTADOS
+2,MARIA CARMEN  LEZCANO MEZA,0985421042,2207741,"1 sola consulta 2026, sin retorno",7/1/2026,ASISMED S.A.
+2,MARIA ESTHER  VILLALBA RODRIGUEZ,0981520724,5031749,"1 sola consulta 2026, sin retorno",11/5/2026,ASISMED S.A.
+2,MARIA GLORIA  AGUERO ESPINOLA,09831781258,3667806,"1 sola consulta 2026, sin retorno",9/3/2026,ASISMED S.A.
+2,MARIA GUADALUPE  GONZALEZ VALLEJOS,0982827101,5418671,"1 sola consulta 2026, sin retorno",10/2/2026,SPS COOMECIPAR
+2,MARIA INES  CARRERAS DE ORTIZ,0982283645,1251199,"1 sola consulta 2026, sin retorno",29/4/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,MARIA JOSE  ALVARENGA,0981557296,5108159,"1 sola consulta 2026, sin retorno",4/2/2026,ASISMED S.A.
+2,MARIA JUDIT  BURGUEZ VERA,021 487 076   0994458348,4787227,"1 sola consulta 2026, sin retorno",19/2/2026,VICE PRESIDENCIA DE LA REPUBLICA
+2,MARIA MERCEDES  SAUCEDO RODRIGUEZ,457140   0981891609,3337824,"1 sola consulta 2026, sin retorno",4/5/2026,VICE PRESIDENCIA DE LA REPUBLICA
+2,MARIA PATRICIA  MARTINEZ CASTILLO,021211391 -   0981925396,3649258,"1 sola consulta 2026, sin retorno",26/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,MARIA PAZ  FLORES ALVARENGA,0991756426,5773539,"1 sola consulta 2026, sin retorno",20/4/2026,VANGUARD
+2,MARIA RAQUEL LEONIDAS  ROMERO ALLEGRETTI,0961610740,2702532,"1 sola consulta 2026, sin retorno",19/5/2026,ODONTOLOGIA 3
+2,MARINA  CASERES GALVAN,0981464922,747592,"1 sola consulta 2026, sin retorno",25/3/2026,ASISMED S.A.
+2,MARIO ENRIQUE  GONZALEZ MARTINEZ,0981510357,3981434,"1 sola consulta 2026, sin retorno",13/5/2026,ASISMED S.A.
+2,MARIO SALVADOR  ACOSTA ORTIZ,0974110215,4223417,"1 sola consulta 2026, sin retorno",18/3/2026,ASISMED S.A.
+2,MARQUEZA GUADALUPE  MIERS BRITEZ,0985967753,4878892,"1 sola consulta 2026, sin retorno",19/3/2026,ASISMED S.A.
+2,MARTA MARGARITA  CUEVAS DE EHRECKE,0982328923,1749930,"1 sola consulta 2026, sin retorno",11/2/2026,VANGUARD
+2,MARÍA  ANGÉLICA  ACOSTA  ALVARENGA,0986204838,3986869,"1 sola consulta 2026, sin retorno",8/4/2026,ODONTOLOGIA 3
+2,MATEO DANIEL  LIPPMANN DA SILVA,0971878440,6581871,"1 sola consulta 2026, sin retorno",12/1/2026,ASISMED S.A.
+2,MAURICIO SEBASTIAN  CABALLERO SILVA,0983410591,6361779,"1 sola consulta 2026, sin retorno",18/3/2026,ODONTOLOGIA 3
+2,MAYRA YANISSE  ORTIZ GOMEZ,0984915700,5983137,"1 sola consulta 2026, sin retorno",11/3/2026,VANGUARD
+2,MELISSA BEATRIZ  SANCHEZ GARCIA,0971323122,2026002,"1 sola consulta 2026, sin retorno",24/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,MICAELA MONSERRATH  ORTIZ FINES,0972555549,5771643,"1 sola consulta 2026, sin retorno",4/3/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,MIGUEL ESTEBAN  MEZA SANTIVIAGO,0985940263,4967684,"1 sola consulta 2026, sin retorno",12/2/2026,ASISMED S.A.
+2,MONICA  OTTAVIANO DE AYALA,200813   0971200519,651490,"1 sola consulta 2026, sin retorno",18/3/2026,ASISMED S.A.
+2,NADIA BERENICE  BARRIOS DUARTE,0984969016,5323222,"1 sola consulta 2026, sin retorno",12/3/2026,ASISMED S.A.
+2,NADIA LETICIA  BERNAL,0994821135,4700049,"1 sola consulta 2026, sin retorno",16/3/2026,PROTECCIÓN MÉDICA S.A
+2,NATACHA MILENA  ANASTACIA  BENITEZ QUINTANA,0985988486,5177853,"1 sola consulta 2026, sin retorno",21/5/2026,ASISMED S.A.
+2,NICOLAS MARTIN  GONZALEZ,0994457693,42098820,"1 sola consulta 2026, sin retorno",9/2/2026,PROTECCIÓN MÉDICA S.A
+2,NICOLE INES  BATTILANA WILKA,0981800020,4437351,"1 sola consulta 2026, sin retorno",5/3/2026,ASISMED S.A.
+2,NIDIA GRACIELA  CABRERA,0971771564,3324101,"1 sola consulta 2026, sin retorno",10/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,NIDIA MARITE  DE YRYGOYEN,0991714222,568449,"1 sola consulta 2026, sin retorno",29/1/2026,PROTECCIÓN MÉDICA S.A
+2,NINFA  ADRIANA  SANCHEZ DE RIVAROLA,0982501484,708580,"1 sola consulta 2026, sin retorno",5/1/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,OSCAR ALEJANDRO  CHAPARRO PINEDA,0972139015,3455687,"1 sola consulta 2026, sin retorno",14/4/2026,ASISMED S.A.
+2,OSCAR ENRIQUE  GONZALEZ ESCURRA,0986747136,4648960,"1 sola consulta 2026, sin retorno",17/3/2026,ASISMED S.A.
+2,OSCAR RODRIGO  VILLALBA GALEANO,0981779593,3550892,"1 sola consulta 2026, sin retorno",16/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,PAOLA ELIZABETH  OSORIO,0986132252,3559119,"1 sola consulta 2026, sin retorno",11/2/2026,VANGUARD
+2,PATRICIA  MARIN ESPINOLA,0984696049,5288920,"1 sola consulta 2026, sin retorno",6/1/2026,ASISMED S.A.
+2,PATRICIA BELÉN  GALEANO COLMÁN,0982873686,4672928,"1 sola consulta 2026, sin retorno",27/4/2026,PROTECCIÓN MÉDICA S.A
+2,PATRICIA IRENE  SANABRIA GONZALEZ,0991924794,3809302,"1 sola consulta 2026, sin retorno",6/5/2026,ASISMED S.A.
+2,PATRICIA LORENA  PAREDES ALVARENGA,0981429135,2241722,"1 sola consulta 2026, sin retorno",2/2/2026,ASISMED S.A.
+2,PAULO ANTONIO  ROA COLMAN,0981568074,4437790,"1 sola consulta 2026, sin retorno",5/2/2026,ASISMED S.A.
+2,PEDRO ADRIAN  MERCADO RIVAROLA,0982368431,4922477,"1 sola consulta 2026, sin retorno",11/2/2026,VANGUARD
+2,PERLA  CONCEPCION  VILLASANTI JARA,2489901   0981542399,1482110,"1 sola consulta 2026, sin retorno",9/4/2026,ASISMED S.A.
+2,PERLA CAROLINA  CACERES ZARACHO,0994255397,3967488,"1 sola consulta 2026, sin retorno",13/1/2026,ASISMED S.A.
+2,PILAR ALEJANDRA  ORTEGA  AQUINO,0961304192,6184259,"1 sola consulta 2026, sin retorno",17/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,RAMONA  ROJAS OJEDA,0992354150,1285298,"1 sola consulta 2026, sin retorno",22/4/2026,ASISMED S.A.
+2,RAMONA EUSEBIA  KRAYACICH DE LEZCANO,0992299958,2700164,"1 sola consulta 2026, sin retorno",26/2/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,RAUL MARIANO  MARTINEZ VILLALBA,0986186501     0986186501,2143445,"1 sola consulta 2026, sin retorno",21/4/2026,VANGUARD
+2,RICARDO ANDRE  JACQUET BOSCHI,0981611891,3005679,"1 sola consulta 2026, sin retorno",4/3/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,RICARDO DANIEL  PEDROZO MENDEZ,0982323382,4207300,"1 sola consulta 2026, sin retorno",23/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,RICHER FERNANDO  GÓMEZ,0976927190,3829317,"1 sola consulta 2026, sin retorno",12/2/2026,ASISMED S.A.
+2,ROCIO ESTELLA  NÚÑEZ DE GONZÁLEZ,0994397059,4505957,"1 sola consulta 2026, sin retorno",26/3/2026,ASISMED S.A.
+2,ROCIO LILIANA  RAMIREZ FERRER,0986144066,3671385,"1 sola consulta 2026, sin retorno",9/3/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ROCÍO MABEL  RIVEROS CÁCERES,0972173684,4350440,"1 sola consulta 2026, sin retorno",12/3/2026,PROTECCIÓN MÉDICA S.A
+2,ROMINA MARIA  ROTELA LARA,0982495465,4180544,"1 sola consulta 2026, sin retorno",3/3/2026,ASISMED S.A.
+2,ROSA  ANGELICA  GALEANO,0974228161,3950891,"1 sola consulta 2026, sin retorno",13/1/2026,ASISMED S.A.
+2,ROSA  ZALAZAR DE RIVAS,0971203025,263202,"1 sola consulta 2026, sin retorno",17/2/2026,ASISMED S.A.
+2,ROSA NOEMI  FELTES BRIZUELA,0985860351,653564,"1 sola consulta 2026, sin retorno",12/1/2026,ASISMED S.A.
+2,ROSALIA  ROJAS ROJAS,0986779703,5556723,"1 sola consulta 2026, sin retorno",5/2/2026,PROTECCIÓN MÉDICA S.A
+2,ROSSANA MERCEDES  DUARTE ALARCON,0981558772,2971911,"1 sola consulta 2026, sin retorno",29/4/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,ROSSANA ROCIO  HAEDO VALDEZ,0985670128,4827915,"1 sola consulta 2026, sin retorno",28/1/2026,ASISMED S.A.
+2,RUTH MARÍA ELENA  VILLAMAYOR GÓMEZ,0961661723,4405208,"1 sola consulta 2026, sin retorno",9/4/2026,ASISMED S.A.
+2,SANDRA CORAL  RAMIREZ VERA,0994138442,3527490,"1 sola consulta 2026, sin retorno",18/3/2026,ASISMED S.A.
+2,SEBASTIAN  MORENO SANCHEZ,0983120510,5797367,"1 sola consulta 2026, sin retorno",3/2/2026,ASISMED S.A.
+2,SHEILA MARIEL  FERNANDEZ BENITEZ,0981343244,4666588,"1 sola consulta 2026, sin retorno",15/1/2026,ASISMED S.A.
+2,SOFIA SOLEDAD  ACOSTA ESCOBAR,0983943144,5377839,"1 sola consulta 2026, sin retorno",17/3/2026,PROTECCIÓN MÉDICA S.A
+2,SOFÍA MABEL  BENÍTEZ BRITEZ,0992770171,4556760,"1 sola consulta 2026, sin retorno",8/4/2026,ASISMED S.A.
+2,SONIA CONCEPCION  BENITEZ ALARCON,0985845393,2494714,"1 sola consulta 2026, sin retorno",23/2/2026,ASISMED S.A.
+2,SONIA RAQUEL  DENIS MIERES,0972604264,3406103,"1 sola consulta 2026, sin retorno",16/4/2026,VANGUARD
+2,STEFANIE DIANE  MORA GOMEZ,227065   0983451538,4318761,"1 sola consulta 2026, sin retorno",9/3/2026,ASISMED S.A.
+2,STELA BEATRIZ  LEON HEINE,0981928160,230602,"1 sola consulta 2026, sin retorno",10/3/2026,SPS COOMECIPAR
+2,STEVEN HERNÁN  ARENAS MATTO,0971552522,4262146,"1 sola consulta 2026, sin retorno",8/1/2026,PROTECCIÓN MÉDICA S.A
+2,SUSANA MARTINA  GONZALEZ BOGADO,0994346558,3800792,"1 sola consulta 2026, sin retorno",13/1/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,VALENTINA  ABIGAIL  ALFONSO SALINAS,0994851496,5869737,"1 sola consulta 2026, sin retorno",9/4/2026,MINISTERIO DE DESARROLLO SOCIAL
+2,VERONICA BEATRIZ  AGUILAR CORONEL,0992922505,7641821,"1 sola consulta 2026, sin retorno",5/3/2026,ASISMED S.A.
+2,VERÓNICA  ANDREA  OTTO GÓMEZ,0981371978,3646897,"1 sola consulta 2026, sin retorno",6/5/2026,ASISMED S.A.
+2,VICENTE RAUL  BENITEZ SALINAS,0991574316,7018193,"1 sola consulta 2026, sin retorno",19/2/2026,PARTICULAR
+2,VICTOR FELIX  GIMENEZ PAIVA,0981199917,1190373,"1 sola consulta 2026, sin retorno",25/3/2026,PROTECCIÓN MÉDICA S.A
+2,VICTOR HUGO  VEGA VALIENTE,0985440355,3839459,"1 sola consulta 2026, sin retorno",5/5/2026,ASISMED S.A.
+2,VICTOR JAVIER  MARECOS ALMADA,0975783574,2645750,"1 sola consulta 2026, sin retorno",23/4/2026,ASISMED S.A.
+2,VIVIANA VERÓNICA  GUILLEN,0982958194,4205119,"1 sola consulta 2026, sin retorno",13/1/2026,PARTICULAR
+2,WILLIAN  SPELT ARMOA,0972231313,5285856,"1 sola consulta 2026, sin retorno",26/3/2026,ASISMED S.A.
+2,XIMENA ALESSA  ORTIZ VILLALBA,0982976683,6753828,"1 sola consulta 2026, sin retorno",14/1/2026,ASISMED S.A.
+2,YARA  AZUCENA  MIRANDA CANO,0983952243,7926059,"1 sola consulta 2026, sin retorno",12/3/2026,ASISMED S.A.
+2,YENNI RAQUEL  SILVA  ALEGRE,0983410591,4326912,"1 sola consulta 2026, sin retorno",18/3/2026,ODONTOLOGIA 3
+2,YENNY ROSSANA  CAÑETE SÁNCHEZ,0982953764,3919708,"1 sola consulta 2026, sin retorno",24/3/2026,PROTECCIÓN MÉDICA S.A
+2,YESICA  JAZMIN  BRITEZ RIOS,0971206456,4799163,"1 sola consulta 2026, sin retorno",5/1/2026,ASISMED S.A.
+2,YOHANA MONSERRATH  CUBILLA GONZALEZ,0972153272,4558462,"1 sola consulta 2026, sin retorno",12/2/2026,SANTA CLARA S.A. MEDICINA PREPAGA
+2,YVANNA MARÍA YAMILA  GONZÁLEZ AQUINO,0971563283,5460834,"1 sola consulta 2026, sin retorno",24/2/2026,ASISMED S.A.
+3,Adan Torres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Aida Roldán,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Alan Dario Jesus / Emile Ramirez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC / Asismed
+3,Alan Dilberto Cáceres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Alcides ...,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Alicia Rodriguez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Ana Belén Sosa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Ana Maria Dentice,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Andrea Alvarez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Andrea Alvarez Overa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Andrea Barua,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Andrea Maldonado,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Secr. Func. Pública / Uptime; Secr. Función Pública
+3,Angélica ...,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Angélica Alvarez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Angélica Quintana,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Anselmo Ruiz,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Anselmo Ruiz Aquino,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Antonia Coronel,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Araceli Rivas / Alice Ramirez,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Bianca Ojeda,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Blanca Segovia,,,Ficha clínica antigua con plan pendiente,hace años,C.D.
+3,Carlos Bobadilla,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados (CD)
+3,Cesar Gallardo,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Chofer de Luis Maria...,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Sin seguro
+3,Cinthya Mongelos,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Cinthya Rejalaga,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Claudelina Duarte,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Cynthia Rejalaga,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gabinete Civil
+3,Cynthia Samudio Revalaga,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,David Draghi / Bragui,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,David Rivarola,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,David Rivarola Baez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Dayanara Sanchez,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Edgar Sosa / ... Sosa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Edgar Sosa Duarte,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed; MOPC
+3,Eduardo Viola Ruiz,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Eduardo Viola Ruiz Diaz,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados / BNF
+3,Eliana Gomez de la Fuente,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Eliana Gómez de la Fuente,,,Ficha clínica antigua con plan pendiente,hace años,BNF
+3,Elias Avalos,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Elias Benitez Fleitas,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Elva Benitez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Elvio Galeano,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Enrique Torres Theobald,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC; Minist. Redención
+3,Eover Lourdes Aquino,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Erika Lopez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gabinete Civil
+3,Erminia Britez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Esteban...,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Fabio Rudis Lopez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Fanny Velazquez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed (VOX)
+3,Fernando Castillo,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Gabriela Ferrario,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Gloria Ibars,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Gregorio Esteche,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Gregorio Estigarribia / Esteche,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados (CD)
+3,Guillermo Pesoa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gabinete Civil
+3,Guillermo Pesoa Riveros,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Irene Cardozo de Espinoza,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Izza Orue Gimenez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Jorge Morales,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Jorge Nuñez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Jorge Ortiz Vera / Lesme,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Josefa Ruiz Diaz,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,José Miño Rodriguez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,José Rodriguez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Juan Pesoa Riveros,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Juan Ramón Torres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Sin seguro
+3,Juan Sosa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Juan... López,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Julio Neri Torres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Julio Orué,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Larisa Barboza,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Larissa Barboza Vallena,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Laura Falcón,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Laura Páez Ozuna,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Laura Páez Ozuna,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Laura Torres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gabinete Civil
+3,Leticia Guerrero,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Lidia Cáceres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed (VOX)
+3,Lidia Cáceres Cardozo,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Lidia Ruiz Diaz,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil / Diputados
+3,Liliana Cuellar,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Sin seguro
+3,Liz Rivarola,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Lourdes Aquino,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gabinete Civil
+3,Lourdes Peralta,,,Ficha clínica antigua con plan pendiente,hace años,Gabinete Civil
+3,Luis Ramón Abdo,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Luisa Ramirez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Consejo Magistratura
+3,Ma. Benitez de Rodriguez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Ma. Colete Velázquez,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Ma. Cristina Rejalaga,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Ma. Cristina Schreiber,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados (CD); Diputados
+3,Ma. Estela Benitez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed (Cargill)
+3,Ma. Fatima Bini,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Ma. José Paniagua,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Ma. de Lourdes Peralta,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF; Sin seguro; Gabinete Civil
+3,Mabel Ferreira Britos,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF / Relac. Exteriores
+3,Malia Benitez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed (Cargill)
+3,Marcia Salinas,,,Ficha clínica antigua con plan pendiente,hace años,BNF
+3,Margarita Galeano,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Mariana Cuella,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,María Peralta,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Mauricio Lopez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil; Relac. Exteriores
+3,Mauricio Lopez Cáceres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Mauricio López,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gabinete Civil
+3,Merardo Torres,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Miguel Patiño,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Miguel Ángel Patiño,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Miguela Peralta,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Miguela Peralta de Oviedo,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC / Sin especificar
+3,Miriam Valdez Fariña,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Mirian Valdez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados (CD)
+3,Mirian Vega,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Mirian Vera de Sosa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Mirtha Otano,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Monica Ferreira,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Sin seguro
+3,Mónica Ferreira,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC; BNF
+3,Mónica Pesoa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Mónica Pesoa Riveros,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Nathalia Cardozo,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Secr. Función Pública; MOPC
+3,Nathalia Esquivel Jara,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Sin seguro
+3,Nathalia Ortiz Aquino,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Diputados
+3,Nestor Alcaraz Barreto,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Nilza Molas,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Norma Ocampos,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Norma Romero,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Ocampo / Otano,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Onorio Ocampos Quintana,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Osvaldo Quintana,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Otano ...,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Paciente Derivado (ledesma3110@hotmail.com),,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Paola Riquelme,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Prince Ortiz,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Richard Britez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Richard Britez Machuca,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Rodora Fleitas,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Romina Gomez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Ronny Villasboa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,BNF
+3,Rossana Aguilar,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Secr. Función Pública
+3,Samantha Breuer,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Samantha Breuer Delgado,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Sin seguro
+3,Sara Márquez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Segovia Páez Ozuna,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Sin seguro
+3,Silvia Alvarenga Gimenez,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Silvia Villalba,,,Ficha clínica antigua con plan pendiente,hace años,
+3,Silvina Miño de Ferreira,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Relac. Exteriores
+3,Silvio Emilio Melgarejo,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Stella Ovelar de Pineda,,,Ficha clínica antigua con plan pendiente,hace años,BNF
+3,Sunilda Roman Sosa,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Consejo Magistratura
+3,Teodora Acuña,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed
+3,Teodora Acuña Ledesma,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Teodora Acuña de Ledesma,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Teresa Barrios de Caniza,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Vicente Urbieta / Urriza,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Victor Pereira,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Gab. Civil
+3,Yennifer Espinoza,,,Paciente del cuaderno antiguo — retomar contacto,hace años,MOPC
+3,Yessica Riveros Falcon,,,Paciente del cuaderno antiguo — retomar contacto,hace años,Asismed

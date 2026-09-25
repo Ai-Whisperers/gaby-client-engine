@@ -1,0 +1,310 @@
+fecha,dia,hora,paciente,cedula,telefono,seguro,sub_plan,notas,estado,origen
+07/04/2026,Lunes,8:30,Andrea Alvarez Overa,,,Relac. Exteriores,,,Cuaderno Físico (L.pdf),
+07/04/2026,Lunes,9:00,Richard Britez Machuca,,,Asismed,Yacyretá,,Cuaderno Físico (L.pdf),
+07/04/2026,Lunes,9:30,Monica Ferreira,,,Sin seguro,,,Cuaderno Físico (L.pdf),
+07/04/2026,Lunes,10:00,Monica Ferreira,,,Sin seguro,,,Cuaderno Físico (L.pdf),
+07/04/2026,Lunes,10:30,David Draghi / Bragui,,,MOPC,,,Cuaderno Físico (L.pdf),
+07/04/2026,Martes,14:30:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+07/04/2026,Martes,15:00:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+07/04/2026,Martes,15:30:00,CAMILA BELEN COELHO VARGAS,5253000,981221561,VANGUARD,FAMILIAR,CAJA,Ausente,Sistema Informático (Digital)
+07/04/2026,Martes,16:00:00,LIZ CLAUDIA AGUILERA INSAURRALDE,4447636,983587104,PROTECCIÓN MÉDICA S.A,MINISTERIO DE AGRICULTURA,,Realizado,Sistema Informático (Digital)
+07/04/2026,Martes,16:30:00,MARCELO LUIS OBERTINO RAMIREZ,1164740,981244676,SANTA CLARA S.A. MEDICINA PREPAGA,MINISTERIO DEL MEDIO AMB. (CONS. Y 50% EN PROC.),,Ausente,Sistema Informático (Digital)
+07/04/2026,Martes,17:00:00,FRANCISCO JAVIER VILLAR LOPEZ,2991924,961936645,PROTECCIÓN MÉDICA S.A,DNIT,,Realizado,Sistema Informático (Digital)
+07/04/2026,Martes,17:30:00,CHRISTIAN DAVID GONZALEZ ROSAS,2447765,981122676,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Ausente,Sistema Informático (Digital)
+07/04/2026,Martes,18:00:00,KATIA MACARENA GIMENEZ ARAUJO,4825736,986456701,ASISMED S.A.,BANCO GNB PY S.A.E.C.A . - BÁSICA + LUZ,Corroborado,Realizado,Sistema Informático (Digital)
+08/04/2026,Martes,7:30,Cynthia Samudio Revalaga,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+08/04/2026,Martes,8:00,Luis Ramón Abdo,,,Asismed,,,Cuaderno Físico (L.pdf),
+08/04/2026,Martes,8:30,Onorio Ocampos Quintana,,,Relac. Exteriores,,,Cuaderno Físico (L.pdf),
+08/04/2026,Martes,9:00,Fabio Rudis Lopez,,,Diputados,,,Cuaderno Físico (L.pdf),
+08/04/2026,Martes,9:30,Eover Lourdes Aquino,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+08/04/2026,Martes,10:30,Lidia Ruiz Diaz,,,Gab. Civil / Diputados,,Confirmado (✓),Cuaderno Físico (L.pdf),
+08/04/2026,Miércoles,14:30:00,PATRICIA YSABEL RODRIGUEZ GIMENEZ,3202744,981560880,PROTECCIÓN MÉDICA S.A,VITAL CARE,,Ausente,Sistema Informático (Digital)
+08/04/2026,Miércoles,15:00:00,MELISSA ARACELI VARGAS GOMEZ,3850711,982575377,PROTECCIÓN MÉDICA S.A,PLAN TODO,,Cancela Paciente,Sistema Informático (Digital)
+08/04/2026,Miércoles,15:30:00,SOFÍA MABEL BENÍTEZ BRITEZ,4556760,992770171,ASISMED S.A.,DUAL,corroborado,Realizado,Sistema Informático (Digital)
+08/04/2026,Miércoles,16:00:00,MARÍA ANGÉLICA ACOSTA ALVARENGA,3986869,986204838,ODONTOLOGIA 3,SENACSA PLAN CORPORATIVO,,Ausente,Sistema Informático (Digital)
+08/04/2026,Miércoles,16:30:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Realizado,Sistema Informático (Digital)
+08/04/2026,Miércoles,17:00:00,MARIA CAROLINA SANABRIA MOLAS,1307808,981466502,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+08/04/2026,Miércoles,17:00:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,Corroborado,Cancela Paciente,Sistema Informático (Digital)
+08/04/2026,Miércoles,17:30:00,BENJAMIN ANDRES MARSA JORG,809114,981949827,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+08/04/2026,Miércoles,17:30:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,,Cancela Paciente,Sistema Informático (Digital)
+08/04/2026,Miércoles,18:00:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,aut,Realizado,Sistema Informático (Digital)
+08/04/2026,Miércoles,18:00:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,,Cancela Paciente,Sistema Informático (Digital)
+09/04/2026,Miércoles,7:30,Nathalia Ortiz Aquino,,,Diputados,,Cancelado (✗),Cuaderno Físico (L.pdf),
+09/04/2026,Miércoles,8:00,Alicia Gonzalez Jara,,,BNF,,Confirmado (✓),Cuaderno Físico (L.pdf),
+09/04/2026,Miércoles,8:30,Mauricio Lopez Cáceres,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+09/04/2026,Miércoles,9:00,Guillermo Pesoa Riveros,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+09/04/2026,Miércoles,9:30,Anselmo Ruiz Aquino,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+09/04/2026,Miércoles,10:00,Esteban...,,,MOPC,,,Cuaderno Físico (L.pdf),
+09/04/2026,Miércoles,10:30,Leticia Guerrero,,,Diputados,,,Cuaderno Físico (L.pdf),
+09/04/2026,Jueves,14:30:00,PERLA CONCEPCION VILLASANTI JARA,1482110,2489901   0981542399,ASISMED S.A.,COBERTURA TOTAL FUNCIONARIOS,,Realizado,Sistema Informático (Digital)
+09/04/2026,Jueves,14:30:00,FATIMA MARIA GONZALEZ,4309618,972192500,ASISMED S.A.,NUCLEO S.A. - BÁSICA + LUZ + ENDO.,,Anulado,Sistema Informático (Digital)
+09/04/2026,Jueves,15:00:00,RUTH MARÍA ELENA VILLAMAYOR GÓMEZ,4405208,961661723,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,,Realizado,Sistema Informático (Digital)
+09/04/2026,Jueves,15:30:00,YARA SAMANTA MIRANDA CANO,7926060,983952243,ASISMED S.A.,CONSULTA Y DESCUENTO 50%,Corroborado,Realizado,Sistema Informático (Digital)
+09/04/2026,Jueves,16:00:00,VALENTINA ABIGAIL ALFONSO SALINAS,5869737,994851496,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+09/04/2026,Jueves,16:00:00,MELISSA ARACELI VARGAS GOMEZ,3850711,982575377,PROTECCIÓN MÉDICA S.A,PLAN TODO,,Ausente,Sistema Informático (Digital)
+09/04/2026,Jueves,16:30:00,JORGE PAUL DUARTE MARTINEZ,5737304,994474994,ASISMED S.A.,SOLAR BANCO S.A.E. - BÁSICA + LUZ,corroborado,Realizado,Sistema Informático (Digital)
+09/04/2026,Jueves,17:00:00,MARIA ANGELITA ORTIZ RODRIGUEZ,1088687,981439444,PROTECCIÓN MÉDICA S.A,MINISTERIO DE AGRICULTURA,,Ausente,Sistema Informático (Digital)
+09/04/2026,Jueves,17:30:00,CECILIO ADÁN ROA FIGUEREDO,4178552,961451227,PROTECCIÓN MÉDICA S.A,EXECUTIVE GRUPO SCAVONE,,Realizado,Sistema Informático (Digital)
+09/04/2026,Jueves,18:00:00,ANDRES URBIETA GONZALEZ,4682116,994154782,ASISMED S.A.,BANCO ITAU S.A. - COB. TOTAL BASICA + LUZ + ENDO.,Corroborado,Realizado,Sistema Informático (Digital)
+10/04/2026,Jueves,7:30,Teodora Acuña Ledesma,,,MOPC,,Confirmado (✓),Cuaderno Físico (L.pdf),
+10/04/2026,Jueves,8:00,Teodora Acuña,,,Asismed,Bco Visión,,Cuaderno Físico (L.pdf),
+10/04/2026,Jueves,8:30,Elias Benitez Fleitas,,,Asismed,Cargill MPO,Confirmado (✓),Cuaderno Físico (L.pdf),
+10/04/2026,Jueves,9:00,Ma. Benitez de Rodriguez,,,Asismed,Yacyretá,Confirmado (✓),Cuaderno Físico (L.pdf),
+10/04/2026,Jueves,9:30,Josefa Ruiz Diaz,,,MOPC,,,Cuaderno Físico (L.pdf),
+10/04/2026,Jueves,10:00,Teresa Barrios de Caniza,,,MOPC,,Confirmado (✓),Cuaderno Físico (L.pdf),
+10/04/2026,Jueves,10:30,Miguela Peralta de Oviedo,,,MOPC / Sin especificar,,Confirmado (✓),Cuaderno Físico (L.pdf),
+10/04/2026,Viernes,15:00:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Ausente,Sistema Informático (Digital)
+10/04/2026,Viernes,15:30:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Ausente,Sistema Informático (Digital)
+10/04/2026,Viernes,16:00:00,FRANCISCO JAVIER VILLAR LOPEZ,2991924,961936645,PROTECCIÓN MÉDICA S.A,DNIT,,Cancela Paciente,Sistema Informático (Digital)
+10/04/2026,Viernes,16:30:00,FRANCISCO JAVIER VILLAR LOPEZ,2991924,961936645,PROTECCIÓN MÉDICA S.A,DNIT,,Cancela Paciente,Sistema Informático (Digital)
+10/04/2026,Viernes,17:00:00,MARIA NINFA ESTELA VALDES DE OLMEDO,1004786,971914550,VICE PRESIDENCIA DE LA REPUBLICA,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+10/04/2026,Viernes,17:30:00,PATRICIA ANAHI AQUINO GALLARDO,4549647,984663462,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Ausente,Sistema Informático (Digital)
+10/04/2026,Viernes,18:00:00,MARIA FATIMA CONCEPCION ARGAÑA CABALLERO,4578784,992339290,ASISMED S.A.,BANCO CONTINENTAL S.A.E.C.A. - BÁSICA + LUZ,corroborado,Ausente,Sistema Informático (Digital)
+11/04/2026,Viernes,Sin horario,Paciente Derivado (ledesma3110@hotmail.com),,,Asismed,Estética,"Derivado de Periodoncia. Carillas en anteriores 11-12-21-22, 5 clune.",Pendiente,Cuaderno Físico (L.pdf)
+13/04/2026,Lunes,14:00,Lidia Cáceres Cardozo,,,Diputados,,,Cuaderno Físico (L.pdf),
+13/04/2026,Lunes,15:30,Silvia Alvarenga Gimenez,,,MOPC,,Confirmado (✓),Cuaderno Físico (L.pdf),
+13/04/2026,Lunes,16:30,Ma. Cristina Rejalaga,,,Gab. Civil,,Cancelado (✗),Cuaderno Físico (L.pdf),
+13/04/2026,Lunes,17:00,José Miño Rodriguez,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+13/04/2026,Lunes,17:30,Mónica Pesoa Riveros,,,Gab. Civil,,Cancelado (✗),Cuaderno Físico (L.pdf),
+13/04/2026,Lunes,17:30:00,PATRICIA ANAHI AQUINO GALLARDO,4549647,984663462,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,10/04 misma hora,Cancela Profesional,Sistema Informático (Digital)
+13/04/2026,Lunes,18:00,Juan Pesoa Riveros,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+13/04/2026,Lunes,18:00:00,MARIA FATIMA CONCEPCION ARGAÑA CABALLERO,4578784,992339290,ASISMED S.A.,BANCO CONTINENTAL S.A.E.C.A. - BÁSICA + LUZ,Viernes 10 misma hora,Cancela Profesional,Sistema Informático (Digital)
+13/04/2026,Lunes,18:30,Eliana Gomez de la Fuente,,,BNF,,,Cuaderno Físico (L.pdf),
+14/04/2026,Lunes,13:00,Samantha Breuer Delgado,,,Sin seguro,,Estética / Isomanttia,,Cuaderno Físico (L.pdf)
+14/04/2026,Lunes,14:30,Yessica Riveros Falcon,,,Asismed,Yacyretá,,Cuaderno Físico (L.pdf),
+14/04/2026,Lunes,15:00,Silvia Alvarenga Gimenez,,,MOPC,FAPASA / BL,,Cancelado (✗),Cuaderno Físico (L.pdf)
+14/04/2026,Lunes,15:30,Edgar Sosa Duarte,,,Asismed,,,Cancelado (✗),Cuaderno Físico (L.pdf)
+14/04/2026,Lunes,16:00,Eduardo Viola Ruiz Diaz,,,Diputados / BNF,,Confirmado (✓),Cuaderno Físico (L.pdf),
+14/04/2026,Lunes,16:30,Silvina Miño de Ferreira,,,Relac. Exteriores,,,Cuaderno Físico (L.pdf),
+14/04/2026,Lunes,17:00,Gabriela Ferrario,,,Asismed,BL,,Cuaderno Físico (L.pdf),
+14/04/2026,Lunes,17:30,Enrique Torres Theobald,,,MOPC,,,Cuaderno Físico (L.pdf),
+14/04/2026,Martes,14:30:00,OSCAR ALEJANDRO CHAPARRO PINEDA,3455687,972139015,ASISMED S.A.,IMPALA TERMINALS PARAGUAY - BÁSICA + LUZ,Corroborado,Realizado,Sistema Informático (Digital)
+14/04/2026,Martes,14:30:00,ANA DELIA GONZÁLEZ MARTÍNEZ,8994376,972726352,PROTECCIÓN MÉDICA S.A,PLAN TODO,,Cancela Paciente,Sistema Informático (Digital)
+14/04/2026,Martes,15:00:00,MARIA CAROLINA SANABRIA MOLAS,1307808,981466502,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+14/04/2026,Martes,15:30:00,KARINA RAMÍREZ ALMADA,3310402,984826037,PROTECCIÓN MÉDICA S.A,MINISTERIO DE LA MUJER,,Realizado,Sistema Informático (Digital)
+14/04/2026,Martes,16:00:00,LIZ MARLENE GARAY GIMENEZ,1223606,981423667,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+14/04/2026,Martes,16:30:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Realizado,Sistema Informático (Digital)
+14/04/2026,Martes,17:00:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Realizado,Sistema Informático (Digital)
+14/04/2026,Martes,17:30:00,ANDRES URBIETA GONZALEZ,4682116,994154782,ASISMED S.A.,BANCO ITAU S.A. - COB. TOTAL BASICA + LUZ + ENDO.,corroborado,Realizado,Sistema Informático (Digital)
+14/04/2026,Martes,18:00:00,LAURA DANIELA GAMARRA GONZÁLEZ,5689410,991953508,ASISMED S.A.,FC DIEZ MEDIA PY S.R.L (BÁSICA + LUZ + ENDO),corroborado,Realizado,Sistema Informático (Digital)
+15/04/2026,Martes,7:30,Cinthya Rejalaga,,,Gab. Civil,,Cancelado (✗),Cuaderno Físico (L.pdf),
+15/04/2026,Martes,8:00,Mauricio Lopez,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+15/04/2026,Martes,8:30,Ocampo / Otano,,,MOPC,,Cancelado (✗),Cuaderno Físico (L.pdf),
+15/04/2026,Martes,9:00,Liz Rivarola,,,BNF,,,Cuaderno Físico (L.pdf),
+15/04/2026,Martes,9:30,María Segovia,,,BNF,,,Cuaderno Físico (L.pdf),
+15/04/2026,Martes,10:00,David Rivarola,,,MOPC,,,Cuaderno Físico (L.pdf),
+15/04/2026,Martes,10:30,Antonia Leguizamón,,,Relac. Exteriores,,,Cuaderno Físico (L.pdf),
+15/04/2026,Martes,14:00,Gabriela Ferrario,,,Asismed,,,Cuaderno Físico (L.pdf),
+15/04/2026,Martes,15:00,Mónica Pesoa,,,Gab. Civil,,Nota: 'El pcte: Mónica Pesoa',,Cuaderno Físico (L.pdf)
+15/04/2026,Miércoles,14:30:00,JUAN ÁNGEL ACOSTA CARDOZO,3578644,985149577,ASISMED S.A.,CADIEM CASA DE BOLSA S.A. - BÁSICA + LUZ + ENDO.,Corroborado,Cancela Paciente,Sistema Informático (Digital)
+15/04/2026,Miércoles,15:00:00,MARCOS DAVID BENEGAS CABRERA,3770692,982511771,ASISMED S.A.,CERVEPAR S.A. - BÁSICA + LUZ,Corroborado,Realizado,Sistema Informático (Digital)
+15/04/2026,Miércoles,15:30:00,SARA ADRIANA THOMEN MOLINAS,3711227,981348534,ASISMED S.A.,CERVEPAR S.A. - BÁSICA + LUZ,Corroborado,Realizado,Sistema Informático (Digital)
+15/04/2026,Miércoles,16:00:00,CARLOS ISMAEL RAMON CUBILLA EGGENSCHWILER,6046545,985835631,VANGUARD,FAMILIAR,,Ausente,Sistema Informático (Digital)
+15/04/2026,Miércoles,16:30:00,ESTELA CONCEPCION EGGENSCHWILER DE CUBILLA,1417460,981761213,VANGUARD,FAMILIAR,,Ausente,Sistema Informático (Digital)
+15/04/2026,Miércoles,17:00:00,BELEN LEGUIZAMON SERVIAN,4177144,994864441,SANTA CLARA S.A. MEDICINA PREPAGA,MECANISMO NACIONAL DE PREVENCIÓN (CONS. Y 50%),,Realizado,Sistema Informático (Digital)
+15/04/2026,Miércoles,17:00:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,Corroborado,Cancela Paciente,Sistema Informático (Digital)
+15/04/2026,Miércoles,17:30:00,PAULA FABIOLA GALEANO OTAZU,5740052,986821775,ASISMED S.A.,BEPSA DEL PY S.A.E.C.A. - BÁSICA + LUZ,,Ausente,Sistema Informático (Digital)
+15/04/2026,Miércoles,17:30:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,,Cancela Paciente,Sistema Informático (Digital)
+15/04/2026,Miércoles,18:00:00,FLORENCIA ESTEFANIA CRUELLAS,8625998,981207702,ASISMED S.A.,VIP PLUS SUPERIOR - BÁSICA + LUZ + ENDO.,,Realizado,Sistema Informático (Digital)
+15/04/2026,Miércoles,18:00:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,,Cancela Paciente,Sistema Informático (Digital)
+16/04/2026,Miércoles,8:30,Miriam Valdez Fariña,,,Diputados,,,Cuaderno Físico (L.pdf),
+16/04/2026,Miércoles,9:00,Izza Orue Gimenez,,,MOPC,,,Cuaderno Físico (L.pdf),
+16/04/2026,Miércoles,9:30,María Rebaraga Gonzalez,,,Sin seguro,,,Cuaderno Físico (L.pdf),
+16/04/2026,Miércoles,10:00,David Rivarola Baez,,,BNF,,,Cuaderno Físico (L.pdf),
+16/04/2026,Miércoles,10:30,Antonia Leguizamón,,,Relac. Exteriores,,,Cuaderno Físico (L.pdf),
+16/04/2026,Jueves,14:30:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,miercoles 22,Cancela Profesional,Sistema Informático (Digital)
+16/04/2026,Jueves,15:00:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,miercoles 22,Cancela Profesional,Sistema Informático (Digital)
+16/04/2026,Jueves,15:30:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,miercoles 22,Cancela Profesional,Sistema Informático (Digital)
+16/04/2026,Jueves,16:00:00,SONIA RAQUEL DENIS MIERES,3406103,972604264,VANGUARD,FAMILIAR,,Realizado,Sistema Informático (Digital)
+16/04/2026,Jueves,16:30:00,MARIA NINFA ESTELA VALDES DE OLMEDO,1004786,971914550,VICE PRESIDENCIA DE LA REPUBLICA,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+16/04/2026,Jueves,17:00:00,FRANCISCO JAVIER VILLAR LOPEZ,2991924,961936645,PROTECCIÓN MÉDICA S.A,DNIT,,Ausente,Sistema Informático (Digital)
+16/04/2026,Jueves,17:30:00,FRANCISCO JAVIER VILLAR LOPEZ,2991924,961936645,PROTECCIÓN MÉDICA S.A,DNIT,,Ausente,Sistema Informático (Digital)
+16/04/2026,Jueves,18:00:00,ELISA VERONICA ALVARIZA ARCE,3762247,986192675,ASISMED S.A.,BANCARD S.A. -  BÁSICA + LUZ + ENDO.,Corroborado,Realizado,Sistema Informático (Digital)
+17/04/2026,Jueves,7:30,Nestor Alcaraz Barreto,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+17/04/2026,Jueves,8:00,Fernando Castillo,,,MOPC,,Cancelado (✗),Cuaderno Físico (L.pdf),
+17/04/2026,Jueves,8:30,Miguel Ángel Patiño,,,Asismed,Punahuera / Curuguaty,Confirmado (✓),Cuaderno Físico (L.pdf),
+17/04/2026,Jueves,9:00,Paola Riquelme,,,Asismed,,,Cuaderno Físico (L.pdf),
+17/04/2026,Jueves,9:30,Laura Páez Ozuna,,,Relac. Exteriores,,,Cuaderno Físico (L.pdf),
+17/04/2026,Jueves,10:00,Angélica Quintana,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+17/04/2026,Jueves,10:30,Ma. Lourdes Aquino,,,BNF,,,Cuaderno Físico (L.pdf),
+17/04/2026,Jueves,11:00,Nathalia Esquivel Jara,,,Sin seguro,,,Cuaderno Físico (L.pdf),
+18/04/2026,Sábado,Sin horario,Nota de agenda complementaria,,,Sin seguro,,Anotación cruzada: 'Para el 15 de abril',,Cuaderno Físico (L.pdf)
+20/04/2026,Lunes,7:30,Elva Benitez,,,BNF,,,Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,8:00,Erminia Britez,,,Gab. Civil,,Confirmado (✓),Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,8:30,Ma. de Lourdes Peralta,,,BNF,,Cancelado (✗),Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,9:00,Ma. de Lourdes Peralta,,,Sin seguro,,Cancelado (✗),Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,9:30,Merardo Torres,,,Asismed,,Confirmado (✓),Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,10:00,Juan Ramón Torres,,,Sin seguro,,,Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,10:30,Liliana Cuellar,,,Sin seguro,,Detartraje (según nota marginal),,Cuaderno Físico (L.pdf)
+20/04/2026,Lunes,13:00,Mónica Ferreira,,,MOPC,,,Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,14:00,Andrea Garcia Maldonado,,,Asismed,VOX 60%,,Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,14:30,Larissa Barboza Vallena,,,MOPC,,Clase II Estética 175.000,,Cuaderno Físico (L.pdf)
+20/04/2026,Lunes,14:30:00,MARIA PAZ FLORES ALVARENGA,5773539,991756426,VANGUARD,FAMILIAR,,Realizado,Sistema Informático (Digital)
+20/04/2026,Lunes,15:00,Jorge Ortiz Vera / Lesme,,,MOPC,,,Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,15:00:00,MARÍA INÉS DE JESÚS VITTONE BERINO,4329165,981648000,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+20/04/2026,Lunes,15:00:00,LIZ MARLENE GARAY GIMENEZ,1223606,981423667,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+20/04/2026,Lunes,15:30,Norma Ocampos,,,Gab. Civil,,Cancelado (✗),Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,15:30:00,LUCAS CLARI ZAMBRINI,3189635,981534645,ASISMED S.A.,LCM S.A. (BÁSICA + LUZ + ENDO),corroborado,Ausente,Sistema Informático (Digital)
+20/04/2026,Lunes,16:00,Victor Pereira,,,Gab. Civil,,,Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,16:00:00,MARIA NINFA ESTELA VALDES DE OLMEDO,1004786,971914550,VICE PRESIDENCIA DE LA REPUBLICA,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+20/04/2026,Lunes,16:30,Adriana Soledad Martinez Santacruz,,,Diputados,,,Cuaderno Físico (L.pdf),
+20/04/2026,Lunes,16:30:00,JUAN AURELIO MORALES VELAZQUEZ,2189488,981658000,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+20/04/2026,Lunes,17:00,Mabel Ferreira Britos,,,BNF / Relac. Exteriores,,Solo falta 1 caries en pieza 37,,Cuaderno Físico (L.pdf)
+20/04/2026,Lunes,17:00:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,corroborado,Realizado,Sistema Informático (Digital)
+20/04/2026,Lunes,17:30:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,corroborado,Realizado,Sistema Informático (Digital)
+20/04/2026,Lunes,18:00:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,corroborado,Realizado,Sistema Informático (Digital)
+21/04/2026,Martes,7:30,Mauricio Lopez,,,Relac. Exteriores,,Confirmado (✓),Cuaderno Físico (L.pdf),
+21/04/2026,Martes,8:00,Chofer de Luis Maria...,,,Sin seguro,,Cancelado (✗),Cuaderno Físico (L.pdf),
+21/04/2026,Martes,8:30,Andrea Maldonado,,,Secr. Func. Pública / Uptime,,,Cuaderno Físico (L.pdf),
+21/04/2026,Martes,9:00,Angélica Alvarez,,,BNF,,,Cuaderno Físico (L.pdf),
+21/04/2026,Martes,9:30,Juan... López,,,Asismed,ASM,,Cuaderno Físico (L.pdf),
+21/04/2026,Martes,10:00,Eduardo Viola Ruiz,,,MOPC,,,Cuaderno Físico (L.pdf),
+21/04/2026,Martes,10:30,Ronny Villasboa,,,BNF,,,Cuaderno Físico (L.pdf),
+21/04/2026,Martes,11:00,Mariana Cuella,,,MOPC,,Confirmado (✓),Cuaderno Físico (L.pdf),
+21/04/2026,Martes,11:00,Larisa Barboza,,,MOPC,,Espejo 11:00 / Clase II Estética 175.000,Confirmado (✓),Cuaderno Físico (L.pdf)
+21/04/2026,Martes,11:30,Enrique Torres Theobald,,,Minist. Redención,,Confirmado (✓),Cuaderno Físico (L.pdf),
+21/04/2026,Martes,14:30:00,RAUL MARIANO MARTINEZ VILLALBA,2143445,0986186501     0986186501,VANGUARD,FAMILIAR,,Realizado,Sistema Informático (Digital)
+21/04/2026,Martes,15:00:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Ausente,Sistema Informático (Digital)
+21/04/2026,Martes,15:30:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Ausente,Sistema Informático (Digital)
+21/04/2026,Martes,16:00:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Ausente,Sistema Informático (Digital)
+21/04/2026,Martes,16:30:00,ANGEL RAFAEL BENITEZ MELGAREJO,3521234,961176552,VANGUARD,FAMILIAR,,Ausente,Sistema Informático (Digital)
+21/04/2026,Martes,17:00:00,ANGELA ROSA CACERES,1373542,972471772,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+21/04/2026,Martes,17:30:00,HILARIO MARTINEZ,2045418,974837208,ASISMED S.A.,INTERCOM FARMACEUTICA DEL PY(BÁSICA+LUZ+ENDO),corroborado,Realizado,Sistema Informático (Digital)
+21/04/2026,Martes,18:00:00,GIANNINA MADELEINE BENITEZ RAMOS,5898131,982170775,ASISMED S.A.,EQUIFAX PARAGUAY S.A. - BÁSICA + LUZ,corroborado,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,7:30,Mirian Vega,,,MOPC,,,Cuaderno Físico (L.pdf),
+22/04/2026,Miércoles,8:00,Jorge Nuñez,,,MOPC,,C.I. 1071865,,Cuaderno Físico (L.pdf)
+22/04/2026,Miércoles,8:30,Romina Gomez,,,MOPC,,,Cuaderno Físico (L.pdf),
+22/04/2026,Miércoles,9:00,Richard Britez,,,Asismed,ASM,Cancelado blanqueamiento,Cancelado (✗),Cuaderno Físico (L.pdf)
+22/04/2026,Miércoles,9:30,Ma. Cristina Schreiber,,,Diputados (CD),,,Cuaderno Físico (L.pdf),
+22/04/2026,Miércoles,10:00,Carlos Bobadilla,,,Diputados (CD),,,Cuaderno Físico (L.pdf),
+22/04/2026,Miércoles,10:30,Gregorio Estigarribia / Esteche,,,Diputados (CD),,Confirmado (✓),Cuaderno Físico (L.pdf),
+22/04/2026,Miércoles,14:30:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,14:55:28,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,15:00:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,15:30:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,16:00:00,ANA DELIA GONZÁLEZ MARTÍNEZ,8994376,972726352,PROTECCIÓN MÉDICA S.A,PLAN TODO,,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,16:30:00,RAMONA ROJAS OJEDA,1285298,992354150,ASISMED S.A.,SOLAR BANCO S.A.E. - BÁSICA + LUZ,CORROBORADO,Cancela Paciente,Sistema Informático (Digital)
+22/04/2026,Miércoles,17:00:00,MARCOS DAVID BENEGAS CABRERA,3770692,982511771,ASISMED S.A.,CERVEPAR S.A. - BÁSICA + LUZ,CORROBORADO,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,17:30:00,SARA ADRIANA THOMEN MOLINAS,3711227,981348534,ASISMED S.A.,CERVEPAR S.A. - BÁSICA + LUZ,CORROBORADO,Realizado,Sistema Informático (Digital)
+22/04/2026,Miércoles,18:00:00,FLORENCIA ESTEFANIA CRUELLAS,8625998,981207702,ASISMED S.A.,VIP PLUS SUPERIOR - BÁSICA + LUZ + ENDO.,CORROBORADO,Cancela Paciente,Sistema Informático (Digital)
+23/04/2026,Jueves,14:30:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,Aut por la Dra. Gabriella.,Realizado,Sistema Informático (Digital)
+23/04/2026,Jueves,15:00:00,JOSE OSMAR BOGADO PAREDES,5445197,986199630,ASISMED S.A.,PARACEL S.A. - BÁSICA + LUZ + ENDO.,CORROBORADO,Realizado,Sistema Informático (Digital)
+23/04/2026,Jueves,15:30:00,VICTOR JAVIER MARECOS ALMADA,2645750,975783574,ASISMED S.A.,CONSULTA Y DESCUENTO 50%,CORROBORADO,Realizado,Sistema Informático (Digital)
+23/04/2026,Jueves,16:00:00,JACQUELINE BERNARDA NUÑEZ OCAMPO,4995559,972443338,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+23/04/2026,Jueves,16:30:00,JULIO CESAR AMARILLA ALEM,1458092,981489202,ODONTOLOGIA 3,SENACSA PLAN CORPORATIVO,,Realizado,Sistema Informático (Digital)
+23/04/2026,Jueves,17:00:00,MARIA RAQUEL BERTRAN SISA,1054157,971974207,ASISMED S.A.,BANCO ITAU S.A. - COB. TOTAL BASICA + LUZ + ENDO.,corroborado,Realizado,Sistema Informático (Digital)
+23/04/2026,Jueves,17:00:00,ADOLFO ENRIQUE RODRIGUEZ AMARILLA,1373329,971563803,ASISMED S.A.,INMOBILIARIA DEL ESTE S.A. - BÁSICA + LUZ,,Cancela Paciente,Sistema Informático (Digital)
+23/04/2026,Jueves,17:30:00,ELISA VERONICA ALVARIZA ARCE,3762247,986192675,ASISMED S.A.,BANCARD S.A. -  BÁSICA + LUZ + ENDO.,Aut doble turno por la Dra. Gabriella.,Ausente,Sistema Informático (Digital)
+23/04/2026,Jueves,18:00:00,ELISA VERONICA ALVARIZA ARCE,3762247,986192675,ASISMED S.A.,BANCARD S.A. -  BÁSICA + LUZ + ENDO.,CORROBORADO,Ausente,Sistema Informático (Digital)
+24/04/2026,Viernes,8:30,Elvio Galeano,,,Asismed,ASM,,,Cuaderno Físico (L.pdf)
+24/04/2026,Viernes,9:00,María Peralta,,,Gab. Civil,GC,,,Cuaderno Físico (L.pdf)
+24/04/2026,Viernes,9:30,Anselmo Ruiz,,,MOPC,,,,Cuaderno Físico (L.pdf)
+24/04/2026,Viernes,10:00,Elias Avalos,,,MOPC,,,,Cuaderno Físico (L.pdf)
+24/04/2026,Viernes,10:30,Mirian Valdez,,,Diputados (CD),CD,,,Cuaderno Físico (L.pdf)
+24/04/2026,Viernes,11:00,Juan Lezcano,,,MOPC,,,,Cuaderno Físico (L.pdf)
+24/04/2026,Viernes,11:30,Samantha Breuer,,,Asismed,MASM / ASM,,,Cuaderno Físico (L.pdf)
+25/04/2026,Sábado,8:30,Edgar Sosa / ... Sosa,,,Asismed,ASM,,,Cuaderno Físico (L.pdf)
+25/04/2026,Sábado,9:00,Prince Ortiz,,,Asismed,ASM,,,Cuaderno Físico (L.pdf)
+25/04/2026,Sábado,9:30,Antonio Amarilla,,,Asismed,ASM,,,Cuaderno Físico (L.pdf)
+25/04/2026,Sábado,10:00,Miguel Patiño,,,MOPC,,,,Cuaderno Físico (L.pdf)
+25/04/2026,Sábado,10:30,José Rodriguez,,,Gab. Civil,GC,,,Cuaderno Físico (L.pdf)
+25/04/2026,Sábado,11:00,Alan Dario Jesus / Emile Ramirez,,,MOPC / Asismed,,,,Cuaderno Físico (L.pdf)
+27/04/2026,Lunes,14:30:00,JULIO RAFAEL CESPEDES AÑAZCO,795394,982522689,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+27/04/2026,Lunes,15:00:00,PATRICIA BELÉN GALEANO COLMÁN,4672928,982873686,PROTECCIÓN MÉDICA S.A,MITIC.,,Realizado,Sistema Informático (Digital)
+27/04/2026,Lunes,15:00:00,OSVALDO ARIEL SOTO ACOSTA,2042760,982562308,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+27/04/2026,Lunes,15:30:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,A pedido de la Dra. Gabriella.,Realizado,Sistema Informático (Digital)
+27/04/2026,Lunes,16:00:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Realizado,Sistema Informático (Digital)
+27/04/2026,Lunes,16:30:00,JUAN JAVIER ALEJANDRO DUARTE ORTIZ,5010615,982873964,ASISMED S.A.,CONSULTA Y DESCUENTO 50%,Corroborado,Ausente,Sistema Informático (Digital)
+27/04/2026,Lunes,17:00:00,JUAN JAVIER ALEJANDRO DUARTE ORTIZ,5010615,982873964,ASISMED S.A.,CONSULTA Y DESCUENTO 50%,,Ausente,Sistema Informático (Digital)
+27/04/2026,Lunes,17:30:00,PATRICIA ANAHI AQUINO GALLARDO,4549647,984663462,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+27/04/2026,Lunes,18:00:00,ADAN QUIMEY CHAVES BRIZUELA,4951160,983803623,ASISMED S.A.,PARAGUAY ENERGY OP. Y LOG. - BÁSICA + LUZ + ENDO,Corroborado,Realizado,Sistema Informático (Digital)
+28/04/2026,Martes,14:30:00,DIANA MARLENE GALEANO MARTINEZ,4635096,972114906,ASISMED S.A.,IMPALA TERMINALS PARAGUAY - BÁSICA + LUZ,,Realizado,Sistema Informático (Digital)
+28/04/2026,Martes,15:30:00,INGRI NATALIA ORDOÑEZ QUIÑONES,9387279,993498747,EL BUEN SAMARITANO S.A.,EXCELLENT,,Realizado,Sistema Informático (Digital)
+28/04/2026,Martes,16:00:00,DOMY MARILEN BÁEZ GARAY,3230214,981996671,PROTECCIÓN MÉDICA S.A,MINISTERIO DE JUSTICIA,,Ausente,Sistema Informático (Digital)
+28/04/2026,Martes,17:30:00,JUAN DAVID LOPEZ ROJAS,6121111,985684707,ASISMED S.A.,RÍO SEGUROS S.A. COMPAÑIA DE SEG. - BÁS.+ LUZ + ENDO,Corroborado,Realizado,Sistema Informático (Digital)
+28/04/2026,Martes,18:00:00,ANDREA MARÍA FRANCO MARTINEZ,4866088,985604282,ASISMED S.A.,MEDITERRANEAN SHIPPING CO.PY (BÁS.+LUZ+ENDO),Corroborado,Realizado,Sistema Informático (Digital)
+29/04/2026,Miércoles,14:30:00,ROSSANA MERCEDES DUARTE ALARCON,2971911,981558772,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Ausente,Sistema Informático (Digital)
+29/04/2026,Miércoles,15:00:00,JUAN JAVIER ALEJANDRO DUARTE ORTIZ,5010615,982873964,ASISMED S.A.,CONSULTA Y DESCUENTO 50%,corroborado,Ausente,Sistema Informático (Digital)
+29/04/2026,Miércoles,15:30:00,JUAN JAVIER ALEJANDRO DUARTE ORTIZ,5010615,982873964,ASISMED S.A.,CONSULTA Y DESCUENTO 50%,corroborado,Ausente,Sistema Informático (Digital)
+29/04/2026,Miércoles,16:00:00,ELIAS DOMINGUEZ BARRETO,5144500,981139819,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Ausente,Sistema Informático (Digital)
+29/04/2026,Miércoles,16:30:00,MARIA RAQUEL BERTRAN SISA,1054157,971974207,ASISMED S.A.,BANCO ITAU S.A. - COB. TOTAL BASICA + LUZ + ENDO.,corroborado,Ausente,Sistema Informático (Digital)
+29/04/2026,Miércoles,17:00:00,MARIA VICTORIA RAMÍREZ GONZALEZ,3808531,981439327,PROTECCIÓN MÉDICA S.A,MINISTERIO DE AGRICULTURA,,Realizado,Sistema Informático (Digital)
+29/04/2026,Miércoles,17:30:00,GLADYS MARIEL ORTIZ RUIZ DÍAZ,5710407,984742372,ASISMED S.A.,FARMACÉUTICA PARAGUAYA S.A. - BÁSICA + LUZ,corroborado,Realizado,Sistema Informático (Digital)
+29/04/2026,Miércoles,18:00:00,MARIA INES CARRERAS DE ORTIZ,1251199,982283645,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+30/04/2026,Jueves,14:30:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Cancela Paciente,Sistema Informático (Digital)
+30/04/2026,Jueves,15:00:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Cancela Paciente,Sistema Informático (Digital)
+30/04/2026,Jueves,15:30:00,GUMERCINDA MARLENE SANCHEZ ALBARIÑO,2392208,983501915,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Cancela Paciente,Sistema Informático (Digital)
+30/04/2026,Jueves,15:30:00,KYRIAN WEISS VAN DER POL,5991039,985724135,EL BUEN SAMARITANO S.A.,CONFORT,,Cancela Paciente,Sistema Informático (Digital)
+30/04/2026,Jueves,16:00:00,ANA ISABEL ROMERO LEGUIZAMON,3685761,981323684,ODONTOLOGIA 3,SENACSA PLAN CORPORATIVO,,Realizado,Sistema Informático (Digital)
+30/04/2026,Jueves,16:30:00,ANDREA BEATRIZ MENDEZ ALETA,9183794,976776280,ASISMED S.A.,VIP PLUS SUPERIOR - BÁSICA + LUZ + ENDO.,Corroborado,Realizado,Sistema Informático (Digital)
+30/04/2026,Jueves,17:00:00,GUMERCINDA MARLENE SANCHEZ ALBARIÑO,2392208,983501915,MINISTERIO DE DESARROLLO SOCIAL,INDEFINIDO,,Realizado,Sistema Informático (Digital)
+30/04/2026,Jueves,17:30:00,JULIO CESAR CENTURION,805875,985237112,VANGUARD,FAMILIAR,,Ausente,Sistema Informático (Digital)
+30/04/2026,Jueves,18:00:00,EMILIANA CONCEPCION UNSAIN DE CENTURION,968797,982302996,VANGUARD,FAMILIAR,,Realizado,Sistema Informático (Digital)
+27/04/2026,Lunes,7:30:00,Cynthia Rejalaga,,,Gabinete Civil,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,8:30:00,Jorge Nuñez,,,MOPC,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,9:00:00,Yennifer Espinoza,,,MOPC,,Cancelado (✗),Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,9:30:00,Irene Cardozo de Espinoza,,,MOPC,,Cancelado (✗),Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,10:00:00,Alicia Gonzalez Jara,,,BNF,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,10:30:00,Sunilda Roman Sosa,,,Consejo Magistratura,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,11:00:00,Sunilda Roman Sosa,,,Consejo Magistratura,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,14:00:00,Claudelina Duarte,,,BNF,,Confirmado (✓),Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,14:30:00,Gloria Ibars,,,MOPC,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,15:30:00,Nathalia Cardozo,,,Secr. Función Pública,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,16:00:00,Rossana Aguilar,,,Secr. Función Pública,,Cancelado (✗),Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,16:30:00,Adan Torres,,,MOPC,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,17:00:00,Erika Lopez,,,Gabinete Civil,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,17:30:00,Mirian Vera de Sosa,,,MOPC,,,Cuaderno Físico (L.pdf),
+27/04/2026,Lunes,18:00:00,Noelia Battilana,,,BNF / Minist. Int.,,Nota: Liliana Cuellar reagendada del 20/04 a confirmar. 9:00 turnos.,Cuaderno Físico (L.pdf),
+02/05/2026,,7:30:00,Segovia Páez Ozuna,,,Sin seguro,,,,Cuaderno Mayo (Lunes-2)
+02/05/2026,,8:00:00,Teodora Acuña de Ledesma,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+02/05/2026,,8:30:00,Rodora Fleitas,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+02/05/2026,,9:00:00,Sara Márquez,,,Relac. Exteriores,,,,Cuaderno Mayo (Lunes-2)
+02/05/2026,,9:30:00,Norma Romero,,,MOPC,,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+02/05/2026,,10:00:00,Alcides ...,,,MOPC,,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+02/05/2026,,10:30:00,Ma. Estela Benitez,,,Asismed (Cargill),,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+02/05/2026,,11:00:00,Miguela Peralta,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+04/05/2026,,8:30:00,Ma. de Lourdes Peralta,,,Gabinete Civil,,,,Cuaderno Mayo (Lunes-2)
+04/05/2026,,9:00:00,Osvaldo Quintana,,,Relac. Exteriores,,,Confirmado (✓),Cuaderno Mayo (Lunes-2)
+04/05/2026,,9:30:00,Osvaldo Quintana,,,Relac. Exteriores,,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+04/05/2026,,10:00:00,Alicia Gonzalez Jara,,,BNF,,,Confirmado (✓),Cuaderno Mayo (Lunes-2)
+04/05/2026,,10:30:00,Guillermo Pesoa,,,Gabinete Civil,,,,Cuaderno Mayo (Lunes-2)
+04/05/2026,,11:00:00,Anselmo Ruiz,,,MOPC,,,Confirmado (✓),Cuaderno Mayo (Lunes-2)
+04/05/2026,,11:30:00,Liz Rivarola,,,BNF,,,Confirmado (✓),Cuaderno Mayo (Lunes-2)
+04/05/2026,,14:00:00,Juan Carlos Acevedo,,,Particular,,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+04/05/2026,,14:30:00,Lourdes Aquino,,,Gabinete Civil,,,,Cuaderno Mayo (Lunes-2)
+04/05/2026,,15:00:00,Silvia Alvarenga,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+04/05/2026,,15:30:00,Rossana Aguilar,,,Secr. Función Pública,,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+04/05/2026,,16:00:00,Nathalia Cardozo,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+04/05/2026,,16:30:00,Mónica Ferreira,,,BNF,,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+04/05/2026,,17:00:00,Fanny Velazquez,,,Asismed (VOX),,,Confirmado (✓),Cuaderno Mayo (Lunes-2)
+04/05/2026,,17:30:00,Andrea Barua,,,BNF,,,,Cuaderno Mayo (Lunes-2)
+04/05/2026,,18:30:00,Julio Orué,,,MOPC,,,"Notas clínicas del día: Profilaxis 350.000 Gs, Caries en 17 250.000 Gs, Total: 600.000 Gs.",Cuaderno Mayo (Lunes-2)
+06/05/2026,,7:30:00,Silvio Emilio Melgarejo,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,8:30:00,Mauricio López,,,Gabinete Civil,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,9:00:00,Andrea Alvarez,,,Relac. Exteriores,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,9:30:00,Andrea Alvarez,,,Relac. Exteriores,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,10:00:00,Julio Neri Torres,,,BNF,,,Cancelado (✗),Cuaderno Mayo (Lunes-2)
+06/05/2026,,10:30:00,Ana Belén Sosa,,,Diputados,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,11:00:00,Ana Maria Dentice,,,Relac. Exteriores,,,Confirmado (✓),Cuaderno Mayo (Lunes-2)
+06/05/2026,,13:30:00,Dionisia Nuñez,,,Relac. Exteriores,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,14:00:00,Vicente Urbieta / Urriza,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,14:30:00,Andrea Maldonado,,,Secr. Función Pública,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,15:30:00,Edgar Sosa Duarte,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,16:00:00,Juan Sosa,,,Diputados,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,16:30:00,Antonia Coronel,,,Diputados,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,17:00:00,Angélica ...,,,Diputados,,,,Cuaderno Mayo (Lunes-2)
+06/05/2026,,17:30:00,Ma. Fatima Bini,,,BNF,,,Confirmado (✓),Cuaderno Mayo (Lunes-2)
+08/05/2026,,8:00:00,Ma. de Lourdes Peralta,,,Gabinete Civil,,,,Cuaderno Mayo (Lunes-2)
+08/05/2026,,8:30:00,Mirtha Otano,,,MOPC,,,,Cuaderno Mayo (Lunes-2)
+08/05/2026,,9:00:00,Ma. Cristina Schreiber,,,Diputados,,,,Cuaderno Mayo (Lunes-2)
+08/05/2026,,9:30:00,Gregorio Esteche,,,Diputados,,,,Cuaderno Mayo (Lunes-2)
+08/05/2026,,10:00:00,Laura Torres,,,Gabinete Civil,,,,Cuaderno Mayo (Lunes-2)
+08/05/2026,,10:30:00,Laura Torres,,,Gabinete Civil,,,,Cuaderno Mayo (Lunes-2)
+08/05/2026,,11:00:00,Luisa Ramirez,,,Consejo Magistratura,,,,Cuaderno Mayo (Lunes-2)
+09/05/2026,,8:00:00,Margarita Galeano,,,Asismed,,,,Cuaderno Mayo (Lunes-2)
+09/05/2026,,8:30:00,Laura Falcón,,,Asismed,,,,Cuaderno Mayo (Lunes-2)
+09/05/2026,,9:00:00,Otano ...,,,Asismed,,,,Cuaderno Mayo (Lunes-2)
+09/05/2026,,9:30:00,Alicia Rodriguez,,,Asismed,,,,Cuaderno Mayo (Lunes-2)
+09/05/2026,,10:00:00,Lidia Cáceres,,,Asismed (VOX),,,,Cuaderno Mayo (Lunes-2)
+09/05/2026,,10:30:00,Malia Benitez,,,Asismed (Cargill),,,,Cuaderno Mayo (Lunes-2)
+09/05/2026,,11:00:00,Alan Dilberto Cáceres,,,BNF,,,,Cuaderno Mayo (Lunes-2)

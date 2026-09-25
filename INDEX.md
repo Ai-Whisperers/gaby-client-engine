@@ -65,6 +65,20 @@
 | `README.md` | How to use the tracker (workflow + cadence) |
 | `outreach-tracker-template.csv` | Empty CRM-lite template (one row per business contacted) |
 
+### `07-legacy-reactivation/` — the historical patient base (added 2026-09-24)
+
+Gaby's old-practice notebooks unified with the 2026 system into a 501-patient master DB → 403 prioritized reactivation opportunities + 189 social-profile candidates. Start with `07-legacy-reactivation/README.md`.
+
+| File | What |
+|---|---|
+| `README.md` | The full story, numbers, and the 4-step play |
+| `pacientes_maestro.csv` | 501 unified patients — single source of truth |
+| `reactivacion_prioridad.csv` | 403 opportunities, P1/P2/P3 with phones + message hooks |
+| `agenda_consolidada_2026.csv` | April+May 2026, paper+digital unified (309 rows) |
+| `pctes_2026_clean.csv` | Cleaned 2026 digital system export (601 appointments) |
+| `cuaderno_transcripcion.md` | Page-by-page notebook transcription (clinical continuity) |
+| `social/revisar_gaby.csv` | 189 public-profile candidates — Gaby confirms SI/NO before ANY contact |
+
 ### `docs/` — deep reference
 
 | File | What | Lines | Size |
