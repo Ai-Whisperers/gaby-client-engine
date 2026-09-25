@@ -77,7 +77,7 @@ Gaby's old-practice notebooks unified with the 2026 system into a 501-patient ma
 | `agenda_consolidada_2026.csv` | April+May 2026, paper+digital unified (309 rows) |
 | `pctes_2026_clean.csv` | Cleaned 2026 digital system export (601 appointments) |
 | `cuaderno_transcripcion.md` | Page-by-page notebook transcription (clinical continuity) |
-| `social/revisar_gaby.csv` | 189 public-profile candidates — Gaby confirms SI/NO before ANY contact |
+| `social/revisar_gaby.csv` | 201 public-profile candidates — Gaby confirms SI/NO before ANY contact |
 
 ### `docs/` — deep reference
 

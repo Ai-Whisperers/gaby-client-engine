@@ -18,7 +18,7 @@ The paper notebooks (`L.pdf` / `Lunes-2/3.pdf`) are Gaby's **old practice agenda
 | — P1: treatment left half-done | 3 (no phone on file) |
 | — P2: 2026 dropout with phone ready | 244 |
 | — P3: legacy, insurer known | 156 |
-| Social-profile candidates found (public web) | **189** for 116 dedup'd legacy patients |
+| Social-profile candidates found (public web) | **201** for 88 of 116 dedup'd legacy patients (2 passes; 28 remain with no public footprint) |
 | Historical insurer mix (P3) | MOPC 44 · Presidencia/Gab. Civil 28 · BNF 19 · Diputados 16 · Rel. Exteriores 14 |
 
 ## Files
@@ -49,4 +49,4 @@ The paper notebooks (`L.pdf` / `Lunes-2/3.pdf`) are Gaby's **old practice agenda
 
 - Notebooks scanned → transcribed page-by-page (`cuaderno_transcripcion.md`) → cross-checked against Google Sheet ground truth (real names corrected handwriting readings).
 - Master unification: fuzzy name-matching (token overlap, alias merge of spelling variants), 145 sheet entries → 116 unique legacy persons → batched into 9 research lots.
-- 189 candidates found via public web-search metadata in 11 subagent batches (3 retried after API 429s). Zero profile pages opened; no phones/emails/addresses recorded from the web.
+- 201 candidates found via public web-search metadata in 13 subagent batches (pass 1: LinkedIn/web, 189 hits; pass 2: Facebook-heavy deep search on the 37 uncovered, +12 hits — mostly press/institutional mentions, all low confidence). Zero profile pages opened; no phones/emails/addresses recorded from the web.
